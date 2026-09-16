@@ -1,0 +1,809 @@
+dog_id,dob,sex,neuter_status,neuter_date,intact_start_date,intact_end_date,neuter_start_date,neuter_end_date,hd,ccl,ed,lsa,mct,hsa,source_file
+LR001xy,6/1/2001,m,< 6 mo.,7/27/2001,,,9/30/2002,10/1/2002,,,,,,,male_labrador_page_1_table_1.csv
+LR002xy,5/13/2009,m,< 6 mo.,7/23/2009,,,6/9/2010,6/9/2010,,,,,,,male_labrador_page_1_table_1.csv
+LR003xy,3/3/2007,m,< 6 mo.,5/26/2007,,,4/15/2008,5/8/2008,,,,,,,male_labrador_page_1_table_1.csv
+LR004xy,2/25/2007,m,< 6 mo.,5/24/2007,,,2/26/2008,2/26/2008,,,,,,,male_labrador_page_1_table_1.csv
+LR005xy,8/1/2000,m,< 6 mo.,10/31/2000,,,12/25/2001,11/3/2003,,,,,,,male_labrador_page_1_table_1.csv
+LR006xy,12/10/2003,m,< 6 mo.,3/10/2004,,,2/15/2008,3/13/2008,invalid,,,,,,male_labrador_page_1_table_1.csv
+LR007xy,4/5/2007,m,< 6 mo.,7/7/2007,,,4/9/2008,10/5/2012,invalid,,invalid,,,,male_labrador_page_1_table_1.csv
+LR008xy,5/1/2004,m,< 6 mo.,8/4/2004,,,5/30/2005,5/30/2005,,,,,,,male_labrador_page_1_table_1.csv
+LR009xy,9/3/2004,m,< 6 mo.,12/9/2004,,,10/19/2005,10/19/2005,,,,,,,male_labrador_page_1_table_1.csv
+LR010xy,3/30/2005,m,< 6 mo.,7/9/2005,,,6/12/2006,7/18/2012,invalid,8/25/2008,invalid,,7/14/2009,,male_labrador_page_1_table_1.csv
+LR011xy,11/30/2009,m,< 6 mo.,3/15/2010,,,6/18/2012,6/29/2012,,,4/18/2012,,,,male_labrador_page_1_table_1.csv
+LR012xy,5/1/1993,m,< 6 mo.,8/15/1993,,,2/24/2000,2/28/2000,,,,,,,male_labrador_page_1_table_1.csv
+LR013xy,10/1/2009,m,< 6 mo.,1/16/2010,,,12/13/2010,1/31/2012,,,,,,,male_labrador_page_1_table_1.csv
+LR014xy,7/22/2004,m,< 6 mo.,11/9/2004,,,9/19/2005,5/7/2012,,,,,,,male_labrador_page_1_table_1.csv
+LR015xy,10/1/1995,m,< 6 mo.,1/30/1996,,,4/5/2004,9/28/2004,,,,,,,male_labrador_page_1_table_1.csv
+LR016xy,4/1/2000,m,< 6 mo.,7/31/2000,,,8/20/2001,8/25/2001,,,,invalid,,,male_labrador_page_1_table_1.csv
+LR017xy,5/18/2010,m,< 6 mo.,9/16/2010,,,7/27/2011,7/29/2011,,,invalid,,,,male_labrador_page_1_table_1.csv
+LR018xy,7/1/1999,m,< 6 mo.,10/30/1999,,,2/26/2002,2/26/2002,,,,,,,male_labrador_page_1_table_1.csv
+LR019xy,7/1/2003,m,< 6 mo.,10/30/2003,,,1/20/2006,1/20/2006,,,,,,,male_labrador_page_1_table_1.csv
+LR020xy,9/1/2003,m,< 6 mo.,1/1/2004,,,8/31/2004,8/31/2004,,,,,,,male_labrador_page_1_table_1.csv
+LR021xy,2/4/2004,m,< 6 mo.,6/10/2004,,,12/8/2009,12/8/2009,,,,,,,male_labrador_page_1_table_1.csv
+LR022xy,11/14/2005,m,< 6 mo.,3/21/2006,,,11/14/2006,1/3/2007,,,,,,,male_labrador_page_1_table_1.csv
+LR023xy,3/15/2003,m,< 6 mo.,7/22/2003,,,10/27/2004,6/18/2008,,3/16/2005,,,,,male_labrador_page_1_table_1.csv
+LR024xy,9/1/2002,m,< 6 mo.,1/15/2003,,,1/24/2005,8/29/2011,,,,,8/1/2010,,male_labrador_page_1_table_1.csv
+LR025xy,1/17/2009,m,< 6 mo.,6/2/2009,,,12/13/2010,12/15/2011,,,,,,,male_labrador_page_1_table_1.csv
+LR026xy,10/15/2006,m,< 6 mo.,3/6/2007,,,11/13/2007,10/19/2012,,,11/21/2008,,,,male_labrador_page_1_table_1.csv
+LR027xy,7/17/2008,m,< 6 mo.,12/10/2008,,,7/17/2009,11/16/2012,,,,,,,male_labrador_page_1_table_1.csv
+LR028xy,5/1/1999,m,< 6 mo.,9/30/1999,,,1/5/2007,12/4/2007,,,,,,,male_labrador_page_1_table_1.csv
+LR029xy,10/20/2000,m,< 6 mo.,3/21/2001,,,1/22/2004,1/22/2004,,,invalid,,,,male_labrador_page_1_table_1.csv
+LR030xy,1/3/2007,m,< 6 mo.,6/4/2007,,,3/7/2008,5/27/2008,,,,,,,male_labrador_page_1_table_1.csv
+LR031xy,5/23/2009,m,< 6 mo.,10/22/2009,,,6/12/2012,6/12/2012,,,,,,,male_labrador_page_1_table_1.csv
+LR032xy,1/1/2008,m,< 6 mo.,6/7/2008,,,1/28/2009,7/15/2010,,,,,,,male_labrador_page_1_table_1.csv
+LR033xy,11/17/2005,m,< 6 mo.,4/26/2006,,,10/20/2008,4/6/2009,,,,,,,male_labrador_page_1_table_1.csv
+LR034xy,4/1/2007,m,< 6 mo.,9/10/2007,,,5/7/2008,5/8/2008,,,,,,,male_labrador_page_1_table_1.csv
+LR035xy,4/4/2004,m,< 6 mo.,9/14/2004,,,5/5/2005,5/5/2005,,,,,,,male_labrador_page_1_table_1.csv
+LR036xy,6/1/2009,m,< 6 mo.,11/11/2009,,,9/3/2010,2/14/2011,,,,,,,male_labrador_page_1_table_1.csv
+LR037xy,3/12/2001,m,< 6 mo.,8/23/2001,,,7/28/2003,2/15/2006,,3/2/2005,invalid,,,,male_labrador_page_1_table_1.csv
+LR038xy,11/17/2003,m,< 6 mo.,4/29/2004,,,11/29/2004,2/6/2012,,12/6/2010,,,,,male_labrador_page_1_table_1.csv
+LR039xy,6/27/2005,m,< 6 mo.,12/9/2005,,,6/7/2008,6/8/2008,,,,,,,male_labrador_page_1_table_1.csv
+LR040xy,12/10/2010,m,< 6 mo.,5/24/2011,,,8/31/2012,8/31/2012,,,,,,,male_labrador_page_1_table_1.csv
+LR041xy,1/1/1996,m,< 6 mo.,6/16/1996,,,1/30/2002,1/30/2002,,,,,,,male_labrador_page_1_table_1.csv
+LR042xy,2/14/1999,m,< 6 mo.,7/31/1999,,,8/21/2006,9/3/2007,,,,,,,male_labrador_page_1_table_1.csv
+LR043xy,7/3/2001,m,< 6 mo.,12/17/2001,,,12/18/2002,12/18/2002,,,,,,,male_labrador_page_1_table_1.csv
+LR044xy,1/1/2009,m,< 6 mo.,6/17/2009,,,1/6/2010,12/27/2012,invalid,,,,,,male_labrador_page_2_table_1.csv
+LR045xy,9/15/2000,m,< 6 mo.,3/2/2001,,,5/30/2007,5/30/2007,,,,,,,male_labrador_page_2_table_1.csv
+LR046xy,9/13/2000,m,< 6 mo.,3/1/2001,,,11/17/2003,6/22/2009,,,,,,,male_labrador_page_2_table_1.csv
+LR047xy,12/19/2005,m,< 6 mo.,6/8/2006,,,1/10/2007,1/13/2007,,,,,,,male_labrador_page_2_table_1.csv
+LR048xy,4/1/2004,m,< 6 mo.,9/21/2004,,,3/18/2007,11/27/2009,,,,,,,male_labrador_page_2_table_1.csv
+LR049xy,3/23/2009,m,< 6 mo.,9/15/2009,,,10/6/2010,11/7/2011,,,,,,,male_labrador_page_2_table_1.csv
+LR050xy,5/1/2005,m,< 6 mo.,10/26/2005,,,10/2/2008,12/5/2008,,,,,,,male_labrador_page_2_table_1.csv
+LR051xy,7/1/2003,m,< 6 mo.,12/27/2003,,,6/7/2006,6/7/2006,invalid,,,,,,male_labrador_page_2_table_1.csv
+LR052xy,2/1/2006,m,< 6 mo.,7/30/2006,,,2/20/2007,5/18/2007,,,,,,,male_labrador_page_2_table_1.csv
+LR053xy,9/8/2003,m,< 6 mo.,3/6/2004,,,10/1/2004,10/1/2004,,,,,,,male_labrador_page_2_table_1.csv
+LR054xy,1/1/1995,m,6 - 11 mo.,7/2/1995,,,8/8/2003,9/26/2003,,,,,,,male_labrador_page_2_table_1.csv
+LR055xy,10/22/1996,m,6 - 11 mo.,4/22/1997,,,3/20/2002,3/20/2002,,,,,,,male_labrador_page_2_table_1.csv
+LR056xy,11/1/1996,m,6 - 11 mo.,5/2/1997,,,9/17/2004,10/26/2004,,,,,,,male_labrador_page_2_table_1.csv
+LR057xy,1/1/1997,m,6 - 11 mo.,7/2/1997,,,10/9/2001,11/30/2001,,,,,,,male_labrador_page_2_table_1.csv
+LR058xy,8/16/1997,m,6 - 11 mo.,2/14/1998,,,6/4/2003,6/19/2003,invalid,invalid,,,,,male_labrador_page_2_table_1.csv
+LR059xy,4/6/1999,m,6 - 11 mo.,10/5/1999,,,6/27/2001,6/27/2001,,,invalid,,,,male_labrador_page_2_table_1.csv
+LR060xy,5/13/1999,m,6 - 11 mo.,11/11/1999,,,12/17/2003,12/17/2003,,12/4/2002,,,,,male_labrador_page_2_table_1.csv
+LR061xy,10/1/2000,m,6 - 11 mo.,4/1/2001,,,10/1/2001,7/18/2003,,,,,,,male_labrador_page_2_table_1.csv
+LR062xy,4/14/2001,m,6 - 11 mo.,10/13/2001,,,12/1/2003,12/10/2003,,,,,,,male_labrador_page_2_table_1.csv
+LR063xy,9/2/2002,m,6 - 11 mo.,3/3/2003,,,10/28/2003,11/18/2003,,,,invalid,,,male_labrador_page_2_table_1.csv
+LR064xy,7/19/2004,m,6 - 11 mo.,1/17/2005,,,11/25/2008,11/25/2008,,,,,,,male_labrador_page_2_table_1.csv
+LR065xy,9/1/2004,m,6 - 11 mo.,3/2/2005,,,1/3/2007,1/3/2007,,,,,,,male_labrador_page_2_table_1.csv
+LR066xy,11/15/2006,m,6 - 11 mo.,5/16/2007,,,10/8/2008,8/31/2012,,,,,,,male_labrador_page_2_table_1.csv
+LR067xy,7/1/1993,m,6 - 11 mo.,12/30/1993,,,8/2/2000,8/2/2000,,,,,,,male_labrador_page_2_table_1.csv
+LR068xy,7/1/1994,m,6 - 11 mo.,12/30/1994,,,9/19/2000,9/19/2000,,,,,,,male_labrador_page_2_table_1.csv
+LR069xy,7/1/1995,m,6 - 11 mo.,12/30/1995,,,10/9/2000,10/9/2000,,,,,,,male_labrador_page_2_table_1.csv
+LR070xy,7/1/1998,m,6 - 11 mo.,12/30/1998,,,5/4/2000,10/19/2000,,,,,,,male_labrador_page_2_table_1.csv
+LR071xy,7/1/2001,m,6 - 11 mo.,12/30/2001,,,9/9/2003,11/6/2003,,,,,,,male_labrador_page_2_table_1.csv
+LR072xy,7/1/2003,m,6 - 11 mo.,12/30/2003,,,11/10/2004,6/22/2005,,,,,,,male_labrador_page_2_table_1.csv
+LR073xy,10/25/2000,m,6 - 11 mo.,4/26/2001,,,10/26/2001,12/12/2001,,,invalid,,,,male_labrador_page_2_table_1.csv
+LR074xy,12/11/2004,m,6 - 11 mo.,6/13/2005,,,12/15/2005,12/15/2005,,,,,,,male_labrador_page_2_table_1.csv
+LR075xy,7/1/2006,m,6 - 11 mo.,1/1/2007,,,7/5/2007,7/5/2007,,,,,,,male_labrador_page_2_table_1.csv
+LR076xy,1/1/2000,m,6 - 11 mo.,7/4/2000,,,1/5/2001,1/5/2001,,,,,,,male_labrador_page_2_table_1.csv
+LR077xy,8/16/2010,m,6 - 11 mo.,2/17/2011,,,8/17/2011,2/11/2012,,,,,,,male_labrador_page_2_table_1.csv
+LR078xy,4/16/2002,m,6 - 11 mo.,10/19/2002,,,4/23/2003,4/23/2003,,,,,,,male_labrador_page_2_table_1.csv
+LR079xy,6/8/2001,m,6 - 11 mo.,12/12/2001,,,6/17/2002,6/18/2002,,,,,,,male_labrador_page_2_table_1.csv
+LR080xy,5/14/2009,m,6 - 11 mo.,11/17/2009,,,5/14/2010,11/21/2011,,10/10/2011,invalid,,,,male_labrador_page_2_table_1.csv
+LR081xy,7/24/2009,m,6 - 11 mo.,1/28/2010,,,10/7/2011,10/17/2011,,,,,,,male_labrador_page_2_table_1.csv
+LR082xy,8/26/2004,m,6 - 11 mo.,3/3/2005,,,4/11/2007,4/11/2007,,,,,,,male_labrador_page_2_table_1.csv
+LR083xy,4/1/2001,m,6 - 11 mo.,10/7/2001,,,4/15/2002,3/6/2010,,,,,,,male_labrador_page_2_table_1.csv
+LR084xy,5/5/2009,m,6 - 11 mo.,11/10/2009,,,5/19/2010,8/24/2010,,,,,,,male_labrador_page_2_table_1.csv
+LR085xy,12/4/2001,m,6 - 11 mo.,6/12/2002,,,12/19/2002,12/21/2002,invalid,,,,,,male_labrador_page_2_table_1.csv
+LR086xy,10/1/2000,m,6 - 11 mo.,4/9/2001,,,10/17/2001,10/24/2001,,,,,,,male_labrador_page_2_table_1.csv
+LR087xy,10/29/2011,m,6 - 11 mo.,5/7/2012,,,11/14/2012,11/14/2012,,,,,,,male_labrador_page_3_table_1.csv
+LR088xy,12/3/2008,m,6 - 11 mo.,6/12/2009,,,12/21/2009,11/19/2012,,,,,,,male_labrador_page_3_table_1.csv
+LR089xy,3/3/2005,m,6 - 11 mo.,9/13/2005,,,3/27/2006,3/27/2006,3/27/2006,,,,,,male_labrador_page_3_table_1.csv
+LR090xy,11/1/2006,m,6 - 11 mo.,5/16/2007,,,11/28/2007,12/17/2007,,,,,,,male_labrador_page_3_table_1.csv
+LR091xy,7/1/2002,m,6 - 11 mo.,1/14/2003,,,2/18/2004,2/18/2004,,,,,,,male_labrador_page_3_table_1.csv
+LR092xy,5/27/2003,m,6 - 11 mo.,12/12/2003,,,7/16/2004,7/16/2004,,,,,,,male_labrador_page_3_table_1.csv
+LR093xy,1/20/2011,m,6 - 11 mo.,8/9/2011,,,5/14/2012,8/21/2012,,,,,,,male_labrador_page_3_table_1.csv
+LR094xy,12/9/2005,m,6 - 11 mo.,6/30/2006,,,7/23/2007,8/27/2007,,,,,,,male_labrador_page_3_table_1.csv
+LR095xy,7/1/1996,m,6 - 11 mo.,1/29/1997,,,1/6/2003,5/12/2003,,,,,,,male_labrador_page_3_table_1.csv
+LR096xy,12/25/2003,m,6 - 11 mo.,8/3/2004,,,5/8/2007,5/9/2007,,,,,,,male_labrador_page_3_table_1.csv
+LR097xy,10/13/1999,m,6 - 11 mo.,5/23/2000,,,1/16/2001,3/4/2008,,,,,,,male_labrador_page_3_table_1.csv
+LR098xy,10/1/2004,m,6 - 11 mo.,5/17/2005,,,3/6/2007,10/28/2011,,,,,,,male_labrador_page_3_table_1.csv
+LR099xy,3/15/2004,m,6 - 11 mo.,11/1/2004,,,6/20/2005,6/20/2005,invalid,,invalid,,,,male_labrador_page_3_table_1.csv
+LR100xy,11/17/1995,m,6 - 11 mo.,7/16/1996,,,7/3/2003,9/4/2003,,,,,,,male_labrador_page_3_table_1.csv
+LR101xy,5/31/1997,m,6 - 11 mo.,1/29/1998,,,9/20/2001,10/3/2001,,,,,,,male_labrador_page_3_table_1.csv
+LR102xy,7/1/2001,m,6 - 11 mo.,3/5/2002,,,7/5/2002,8/15/2002,,,,,,,male_labrador_page_3_table_1.csv
+LR103xy,9/1/1999,m,6 - 11 mo.,5/9/2000,,,11/27/2000,12/5/2001,,,,,,,male_labrador_page_3_table_1.csv
+LR104xy,10/11/2010,m,6 - 11 mo.,6/21/2011,,,8/21/2012,9/13/2012,,,,,,,male_labrador_page_3_table_1.csv
+LR105xy,1/23/1994,m,6 - 11 mo.,10/13/1994,,,2/21/2002,9/12/2002,,,,,,,male_labrador_page_3_table_1.csv
+LR106xy,6/7/2004,m,6 - 11 mo.,2/27/2005,,,6/8/2005,2/9/2007,,,,,,,male_labrador_page_3_table_1.csv
+LR107xy,5/20/1998,m,6 - 11 mo.,2/11/1999,,,1/23/2002,1/25/2002,,,,,,,male_labrador_page_3_table_1.csv
+LR108xy,4/9/2004,m,6 - 11 mo.,1/1/2005,,,6/8/2005,9/6/2005,,,,,,,male_labrador_page_3_table_1.csv
+LR109xy,10/5/2001,m,6 - 11 mo.,7/3/2002,,,3/5/2003,3/5/2003,,,,,,,male_labrador_page_3_table_1.csv
+LR110xy,12/1/1999,m,6 - 11 mo.,8/30/2000,,,1/5/2004,1/5/2004,,,,,,,male_labrador_page_3_table_1.csv
+LR111xy,10/1/2009,m,6 - 11 mo.,7/1/2010,,,4/1/2011,4/1/2011,,,,,,,male_labrador_page_3_table_1.csv
+LR112xy,9/1/2002,m,6 - 11 mo.,6/5/2003,,,6/27/2005,8/3/2005,,,invalid,,,7/19/2005,male_labrador_page_3_table_1.csv
+LR113xy,10/5/2001,m,6 - 11 mo.,7/12/2002,,,5/10/2007,5/11/2007,,,,,,,male_labrador_page_3_table_1.csv
+LR114xy,12/7/1995,m,6 - 11 mo.,10/4/1996,,,11/7/2001,11/10/2001,invalid,,invalid,,,,male_labrador_page_3_table_1.csv
+LR115xy,7/4/1998,m,6 - 11 mo.,5/4/1999,,,6/2/2004,7/19/2006,invalid,,,,,,male_labrador_page_3_table_1.csv
+LR116xy,2/28/2003,m,6 - 11 mo.,12/29/2003,,,6/8/2005,12/7/2007,,,,,,,male_labrador_page_3_table_1.csv
+LR117xy,7/1/1994,m,6 - 11 mo.,5/1/1995,,,3/8/2001,5/21/2001,,,,,,,male_labrador_page_3_table_1.csv
+LR118xy,7/1/1998,m,6 - 11 mo.,5/1/1999,,,4/11/2000,4/11/2000,,,,,,,male_labrador_page_3_table_1.csv
+LR119xy,3/1/2001,m,6 - 11 mo.,1/1/2002,,,7/29/2002,7/31/2002,,,,,,,male_labrador_page_3_table_1.csv
+LR120xy,8/15/1997,m,6 - 11 mo.,6/30/1998,,,5/16/2001,3/16/2001,,,,,,,male_labrador_page_3_table_1.csv
+LR121xy,3/17/1993,m,6 - 11 mo.,2/3/1994,,,2/27/2002,3/5/2002,,,,,,,male_labrador_page_3_table_1.csv
+LR122xy,3/1/1996,m,6 - 11 mo.,1/30/1997,,,11/3/2000,10/13/2003,,,,,,,male_labrador_page_3_table_1.csv
+LR123xy,7/24/1996,m,6 - 11 mo.,6/24/1997,,,1/19/2001,1/24/2003,,,,,,,male_labrador_page_3_table_1.csv
+LR124xy,6/10/1998,m,6 - 11 mo.,5/11/1999,,,6/21/2000,6/5/2002,,,,,,,male_labrador_page_3_table_1.csv
+LR125xy,11/1/1999,m,6 - 11 mo.,10/9/2000,,,11/13/2000,11/13/2000,,,,,,,male_labrador_page_3_table_1.csv
+LR126xy,10/8/2003,m,6 - 11 mo.,9/16/2004,,,6/22/2009,1/27/2012,,,,,,,male_labrador_page_3_table_1.csv
+LR127xy,3/23/1998,m,1 yr.,3/23/1999,,,9/26/2003,11/1/2006,9/1/2003,,,,,,male_labrador_page_3_table_1.csv
+LR128xy,3/9/1999,m,1 yr.,3/8/2000,,,3/9/2000,3/22/2000,,,,,,,male_labrador_page_3_table_1.csv
+LR129xy,3/1/2000,m,1 yr.,3/1/2001,,,5/8/2003,10/13/2006,,,,,,,male_labrador_page_3_table_1.csv
+LR130xy,10/1/2004,m,1 yr.,10/1/2005,,,11/8/2005,11/8/2005,,,,,,,male_labrador_page_4_table_1.csv
+LR131xy,10/10/2004,m,1 yr.,10/10/2005,,,8/17/2009,9/11/2009,,,,,,,male_labrador_page_4_table_1.csv
+LR132xy,7/1/1997,m,1 yr.,7/1/1998,,,9/15/2003,9/17/2003,,,,,,,male_labrador_page_4_table_1.csv
+LR133xy,7/1/1998,m,1 yr.,7/1/1999,,,1/7/2003,10/4/2005,,5/1/2002,,,,,male_labrador_page_4_table_1.csv
+LR134xy,7/1/1999,m,1 yr.,6/30/2000,,,5/14/2003,5/14/2003,,,,,,,male_labrador_page_4_table_1.csv
+LR135xy,7/1/2000,m,1 yr.,7/1/2001,,,2/15/2007,2/15/2007,,,,,,,male_labrador_page_4_table_1.csv
+LR136xy,6/1/2003,m,1 yr.,6/1/2004,,,7/16/2004,7/16/2004,,,,,,,male_labrador_page_4_table_1.csv
+LR137xy,11/1/2006,m,1 yr.,11/2/2007,11/2/2007,11/2/2007,11/2/2007,11/2/2007,,,,,,,male_labrador_page_4_table_1.csv
+LR138xy,9/4/2005,m,1 yr.,9/7/2006,9/5/2006,9/7/2006,9/7/2006,9/19/2006,,,,,,,male_labrador_page_4_table_1.csv
+LR139xy,6/20/2008,m,1 yr.,7/1/2009,,,8/5/2009,8/8/2009,,,invalid,,,,male_labrador_page_4_table_1.csv
+LR140xy,1/16/2006,m,1 yr.,2/1/2007,,,1/2/2008,1/11/2008,,,,,,,male_labrador_page_4_table_1.csv
+LR141xy,7/1/2004,m,1 yr.,7/22/2005,7/21/2005,7/22/2005,7/22/2005,7/28/2005,,,,,,,male_labrador_page_4_table_1.csv
+LR142xy,3/1/2000,m,1 yr.,3/23/2001,3/21/2001,3/23/2001,3/23/2001,9/8/2006,,,,,,,male_labrador_page_4_table_1.csv
+LR143xy,10/3/2011,m,1 yr.,10/25/2012,10/25/2012,10/25/2012,10/25/2012,10/25/2012,,,,,,,male_labrador_page_4_table_1.csv
+LR144xy,1/1/2008,m,1 yr.,1/27/2009,1/9/2009,1/27/2009,1/27/2009,2/10/2009,,,,,,,male_labrador_page_4_table_1.csv
+LR145xy,5/1/2006,m,1 yr.,5/30/2007,,,5/7/2008,6/5/2008,,,,,,,male_labrador_page_4_table_1.csv
+LR146xy,1/8/1999,m,1 yr.,2/10/2000,,,7/20/2000,7/20/2000,,,,,,,male_labrador_page_4_table_1.csv
+LR147xy,12/8/2003,m,1 yr.,1/27/2005,1/26/2005,1/27/2005,1/27/2005,2/11/2005,,,,,,,male_labrador_page_4_table_1.csv
+LR148xy,4/23/2010,m,1 yr.,6/21/2011,,,6/18/2012,6/18/2012,,,,,,,male_labrador_page_4_table_1.csv
+LR149xy,12/14/1998,m,1 yr.,2/18/2000,,,1/11/2001,1/11/2001,,,,,,,male_labrador_page_4_table_1.csv
+LR150xy,11/1/1999,m,1 yr.,1/22/2001,1/22/2001,1/22/2001,1/22/2001,9/20/2005,,,,,,,male_labrador_page_4_table_1.csv
+LR151xy,11/6/2003,m,1 yr.,2/1/2005,1/31/2005,2/1/2005,2/1/2005,2/7/2006,,,,,,,male_labrador_page_4_table_1.csv
+LR152xy,11/4/2000,m,1 yr.,3/1/2002,,,10/21/2002,10/21/2002,,,,,,,male_labrador_page_4_table_1.csv
+LR153xy,4/29/2002,m,1 yr.,8/26/2003,8/25/2003,8/26/2003,8/26/2003,8/27/2003,,,,,,,male_labrador_page_4_table_1.csv
+LR154xy,9/1/1998,m,1 yr.,1/6/2000,1/4/2000,1/6/2000,1/6/2000,1/8/2000,,,,,,,male_labrador_page_4_table_1.csv
+LR155xy,12/1/2010,m,1 yr.,4/12/2012,4/11/2012,4/12/2012,4/12/2012,4/12/2012,,,,,,,male_labrador_page_4_table_1.csv
+LR156xy,11/1/2000,m,1 yr.,3/29/2002,3/28/2002,3/29/2002,3/29/2002,3/26/2009,invalid,,invalid,,,,male_labrador_page_4_table_1.csv
+LR157xy,11/3/2002,m,1 yr.,4/6/2004,4/5/2004,4/6/2004,4/6/2004,4/7/2004,,,,,,,male_labrador_page_4_table_1.csv
+LR158xy,8/10/2006,m,1 yr.,1/16/2008,1/15/2008,1/16/2008,1/16/2008,1/17/2008,,,,,,,male_labrador_page_4_table_1.csv
+LR159xy,2/1/2001,m,1 yr.,7/14/2002,,,7/28/2002,7/29/2002,,,,,,,male_labrador_page_4_table_1.csv
+LR160xy,12/5/2010,m,1 yr.,5/16/2012,12/7/2011,5/16/2012,5/16/2012,10/31/2012,,,,,,,male_labrador_page_4_table_1.csv
+LR161xy,7/10/2006,m,1 yr.,1/11/2008,7/25/2007,1/11/2008,1/11/2008,1/12/2008,,,,,,,male_labrador_page_4_table_1.csv
+LR162xy,6/1/1994,m,1 yr.,12/21/1995,,,4/28/2000,8/21/2000,,,,,,,male_labrador_page_4_table_1.csv
+LR163xy,8/1/1998,m,1 yr.,2/25/2000,2/25/2000,2/25/2000,2/25/2000,3/16/2002,,,,,invalid,,male_labrador_page_4_table_1.csv
+LR164xy,7/1/1999,m,1 yr.,1/26/2001,10/25/2000,1/26/2001,1/26/2001,4/2/2004,,,,,,,male_labrador_page_4_table_1.csv
+LR165xy,4/26/2004,m,1 yr.,12/14/2005,12/13/2005,12/14/2005,12/14/2005,12/15/2005,,,,,,,male_labrador_page_4_table_1.csv
+LR166xy,6/1/1997,m,1 yr.,1/22/1999,,,11/8/2005,12/25/2005,,,,11/16/2005,,invalid,male_labrador_page_4_table_1.csv
+LR167xy,7/1/1998,m,1 yr.,3/1/2000,3/1/2000,3/1/2000,3/1/2000,3/1/2000,,,,,,,male_labrador_page_4_table_1.csv
+LR168xy,5/1/2000,m,1 yr.,1/1/2002,,,4/10/2002,4/10/2002,,,,,,,male_labrador_page_4_table_1.csv
+LR169xy,7/1/2004,m,1 yr.,3/3/2006,3/1/2006,3/3/2006,3/3/2006,3/3/2006,,,,,,,male_labrador_page_4_table_1.csv
+LR170xy,12/15/1997,m,1 yr.,8/30/1999,,,5/23/2000,5/25/2000,invalid,,,,,,male_labrador_page_4_table_1.csv
+LR171xy,7/1/2000,m,1 yr.,4/4/2002,4/3/2002,4/4/2002,4/4/2002,4/15/2002,,,,,,,male_labrador_page_4_table_1.csv
+LR172xy,7/1/1998,m,1 yr.,4/21/2000,4/20/2000,4/21/2000,4/21/2000,4/22/2000,,,,,,,male_labrador_page_4_table_1.csv
+LR173xy,4/20/2001,m,1 yr.,2/11/2003,2/10/2003,2/11/2003,2/11/2003,4/5/2010,,,12/1/2002,,,5/10/2009,male_labrador_page_5_table_1.csv
+LR174xy,12/1/1992,m,1 yr.,9/27/1994,,,2/1/2000,2/8/2000,,,,,,,male_labrador_page_5_table_1.csv
+LR175xy,4/1/2003,m,1 yr.,2/3/2005,2/2/2005,2/3/2005,2/3/2005,2/4/2005,,,,,,,male_labrador_page_5_table_1.csv
+LR176xy,7/1/2000,m,1 yr.,5/21/2002,5/20/2002,5/21/2002,5/21/2002,6/3/2002,,,,,,,male_labrador_page_5_table_1.csv
+LR177xy,4/20/2002,m,1 yr.,3/19/2004,5/27/2003,3/19/2004,3/19/2004,12/29/2010,,,,,,,male_labrador_page_5_table_1.csv
+LR178xy,1/24/1996,m,1 yr.,1/1/1998,,,5/3/2000,11/17/2004,,,,,,,male_labrador_page_5_table_1.csv
+LR179xy,1/1/2002,m,2 - 4 yr.,1/1/2004,,,8/25/2004,12/14/2004,,,,,,,male_labrador_page_5_table_1.csv
+LR180xy,7/1/1995,m,2 - 8 years,6/30/1997,,,5/9/2000,10/29/2002,,,,,,,male_labrador_page_5_table_1.csv
+LR181xy,7/1/1998,m,2 - 8 years,6/30/2000,,,2/16/2003,2/16/2003,,,,,,,male_labrador_page_5_table_1.csv
+LR182xy,7/1/2000,m,2 - 8 years,7/2/2002,7/1/2002,7/2/2002,7/2/2002,7/12/2002,,,,,,,male_labrador_page_5_table_1.csv
+LR183xy,1/7/1997,m,2 - 8 years,2/2/1999,,,1/11/2000,8/8/2000,,,,,,,male_labrador_page_5_table_1.csv
+LR184xy,7/8/2006,m,2 - 8 years,8/7/2008,8/5/2008,8/7/2008,8/7/2008,8/8/2008,,,,,,,male_labrador_page_5_table_1.csv
+LR185xy,7/1/2000,m,2 - 8 years,8/1/2002,,,1/13/2003,9/25/2006,,,,,,,male_labrador_page_5_table_1.csv
+LR186xy,9/1/2006,m,2 - 8 years,10/2/2008,10/1/2008,10/2/2008,10/2/2008,8/21/2011,,,,,,,male_labrador_page_5_table_1.csv
+LR187xy,7/1/2007,m,2 - 8 years,9/3/2009,1/28/2009,9/3/2009,9/3/2009,4/13/2012,,,,,,,male_labrador_page_5_table_1.csv
+LR188xy,8/26/1995,m,2 - 8 years,11/4/1997,,,1/4/2000,5/11/2000,,,,,invalid,,male_labrador_page_5_table_1.csv
+LR189xy,7/1/2006,m,2 - 8 years,9/16/2008,9/15/2008,9/16/2008,9/16/2008,9/16/2008,,,,,,,male_labrador_page_5_table_1.csv
+LR190xy,8/1/2004,m,2 - 8 years,11/13/2006,2/13/2006,11/13/2006,11/13/2006,11/30/2006,,,,,,,male_labrador_page_5_table_1.csv
+LR191xy,7/1/1999,m,2 - 8 years,10/24/2001,10/23/2001,10/24/2001,10/24/2001,12/3/2003,,,,,,,male_labrador_page_5_table_1.csv
+LR192xy,7/1/2006,m,2 - 8 years,10/28/2008,10/27/2008,10/28/2008,10/28/2008,10/29/2008,,,,,,,male_labrador_page_5_table_1.csv
+LR193xy,12/5/1996,m,2 - 8 years,4/16/1999,,,7/10/2000,9/27/2005,invalid,,1/25/2002,,,,male_labrador_page_5_table_1.csv
+LR194xy,10/17/2006,m,2 - 8 years,3/19/2009,11/19/2007,3/19/2009,3/19/2009,3/10/2010,,,,,,,male_labrador_page_5_table_1.csv
+LR195xy,7/1/2001,m,2 - 8 years,12/9/2003,12/8/2003,12/9/2003,12/9/2003,4/25/2004,,,,,,,male_labrador_page_5_table_1.csv
+LR196xy,5/30/2001,m,2 - 8 years,11/25/2003,11/24/2003,11/25/2003,11/25/2003,12/16/2003,,,,,,,male_labrador_page_5_table_1.csv
+LR197xy,7/1/2004,m,2 - 8 years,1/1/2007,,,2/17/2009,12/26/2012,,,,,invalid,,male_labrador_page_5_table_1.csv
+LR198xy,12/20/1993,m,2 - 8 years,7/1/1996,,,12/14/2001,12/14/2001,,,,,,,male_labrador_page_5_table_1.csv
+LR199xy,7/1/1998,m,2 - 8 years,1/17/2001,1/16/2001,1/17/2001,1/17/2001,1/17/2001,,,,,,,male_labrador_page_5_table_1.csv
+LR200xy,8/1/1998,m,2 - 8 years,3/14/2001,2/5/2001,3/14/2001,3/14/2001,3/15/2001,,,,,,,male_labrador_page_5_table_1.csv
+LR201xy,7/1/1997,m,2 - 8 years,2/25/2000,2/25/2000,2/25/2000,2/25/2000,3/6/2003,,,,,,,male_labrador_page_5_table_1.csv
+LR202xy,4/6/2002,m,2 - 8 years,12/30/2004,,,1/13/2005,1/14/2005,,,,,,invalid,male_labrador_page_5_table_1.csv
+LR203xy,7/1/2003,m,2 - 8 years,4/13/2006,2/28/2006,4/13/2006,4/13/2006,12/19/2008,,,,,,,male_labrador_page_5_table_1.csv
+LR204xy,1/4/1994,m,2 - 8 years,11/3/1996,,,5/14/2001,7/19/2001,,,,,,,male_labrador_page_5_table_1.csv
+LR205xy,7/19/2005,m,2 - 8 years,5/20/2008,12/8/2006,5/20/2008,5/20/2008,1/9/2009,,,,,,,male_labrador_page_5_table_1.csv
+LR206xy,7/1/2002,m,2 - 8 years,6/27/2005,,,8/29/2005,6/1/2006,,,,,,,male_labrador_page_5_table_1.csv
+LR207xy,7/1/1998,m,2 - 8 years,6/30/2001,,,10/24/2001,12/14/2004,,,,,,,male_labrador_page_5_table_1.csv
+LR208xy,5/25/2002,m,2 - 8 years,6/28/2005,12/1/2003,6/28/2005,6/28/2005,11/6/2007,,,,,8/22/2005,,male_labrador_page_5_table_1.csv
+LR209xy,6/21/2000,m,2 - 8 years,7/31/2003,7/21/2003,7/31/2003,7/31/2003,8/11/2003,,,,,,,male_labrador_page_5_table_1.csv
+LR210xy,7/1/1999,m,2 - 8 years,10/29/2002,10/28/2002,10/29/2002,10/29/2002,10/30/2002,,,,,,,male_labrador_page_5_table_1.csv
+LR211xy,7/1/2003,m,2 - 8 years,12/21/2006,12/20/2006,12/21/2006,12/21/2006,4/2/2007,,,,,,,male_labrador_page_5_table_1.csv
+LR212xy,6/1/2009,m,2 - 8 years,12/6/2012,11/7/2012,12/6/2012,12/6/2012,12/6/2012,,,,,,,male_labrador_page_5_table_1.csv
+LR213xy,7/1/2002,m,2 - 8 years,1/24/2006,1/23/2006,1/24/2006,1/24/2006,1/25/2006,,,,,,,male_labrador_page_5_table_1.csv
+LR214xy,7/1/1996,m,2 - 8 years,3/1/2000,,,7/12/2000,1/4/2001,,,,,,,male_labrador_page_5_table_1.csv
+LR215xy,7/1/1995,m,2 - 8 years,3/16/1999,,,7/5/2000,7/21/2000,,,,,,,male_labrador_page_5_table_1.csv
+LR216xy,7/1/1997,m,2 - 8 years,6/1/2001,,,1/18/2002,11/6/2002,,,,,,,male_labrador_page_6_table_1.csv
+LR217xy,7/1/1995,m,2 - 8 years,6/30/1999,,,7/28/2000,7/28/2000,,,,,,,male_labrador_page_6_table_1.csv
+LR218xy,7/1/2000,m,2 - 8 years,6/30/2004,,,6/30/2005,6/30/2005,,,,,,,male_labrador_page_6_table_1.csv
+LR219xy,11/25/2000,m,2 - 8 years,12/17/2004,12/16/2004,12/17/2004,12/17/2004,12/17/2004,,,,,,,male_labrador_page_6_table_1.csv
+LR220xy,7/1/2001,m,2 - 8 years,8/9/2005,,,10/3/2005,10/11/2005,,,,,,,male_labrador_page_6_table_1.csv
+LR221xy,7/1/1999,m,2 - 8 years,9/5/2003,,,3/5/2004,2/10/2008,,,,,,,male_labrador_page_6_table_1.csv
+LR222xy,4/4/1998,m,2 - 8 years,6/20/2002,12/4/2003,6/20/2002,6/20/2002,11/26/2006,,,,,,,male_labrador_page_6_table_1.csv
+LR223xy,1/16/1998,m,2 - 8 years,4/19/2002,4/18/2002,4/19/2002,4/19/2002,4/19/2002,,,,,,,male_labrador_page_6_table_1.csv
+LR224xy,6/1/1999,m,2 - 8 years,9/4/2003,9/3/2003,9/4/2003,9/4/2003,9/15/2003,,,,,,,male_labrador_page_6_table_1.csv
+LR225xy,7/1/1998,m,2 - 8 years,10/11/2002,9/12/2002,10/11/2002,10/11/2002,6/26/2006,,,,,,,male_labrador_page_6_table_1.csv
+LR226xy,4/9/1998,m,2 - 8 years,8/1/2002,,,9/19/2002,10/12/2005,,,,,,,male_labrador_page_6_table_1.csv
+LR227xy,5/1/2004,m,2 - 8 years,9/10/2008,,,10/6/2008,10/6/2008,,,,,,,male_labrador_page_6_table_1.csv
+LR228xy,3/18/2002,m,2 - 8 years,8/16/2006,4/17/2003,8/16/2006,8/16/2006,9/8/2006,,,,,,,male_labrador_page_6_table_1.csv
+LR229xy,7/1/2004,m,2 - 8 years,12/29/2008,,,10/16/2009,12/22/2009,,,,,,,male_labrador_page_6_table_1.csv
+LR230xy,7/1/2002,m,2 - 8 years,1/11/2007,1/9/2007,1/11/2007,1/11/2007,2/9/2007,,,,,,,male_labrador_page_6_table_1.csv
+LR231xy,7/1/1999,m,2 - 8 years,2/4/2004,2/19/2003,2/4/2004,2/4/2004,3/16/2004,,,,invalid,,,male_labrador_page_6_table_1.csv
+LR232xy,7/1/1995,m,2 - 8 years,4/9/2000,,,4/9/2001,4/26/2001,,,,,,,male_labrador_page_6_table_1.csv
+LR233xy,2/21/2000,m,2 - 8 years,12/1/2004,7/2/2001,12/1/2004,12/1/2004,2/17/2007,,,invalid,,,,male_labrador_page_6_table_1.csv
+LR234xy,8/1/1994,m,2 - 8 years,8/1/1999,,,1/11/2000,12/7/2001,,,1/11/2000,,,,male_labrador_page_6_table_1.csv
+LR235xy,12/12/1996,m,2 - 8 years,12/13/2001,12/12/2001,12/13/2001,12/13/2001,4/29/2002,,,,,,,male_labrador_page_6_table_1.csv
+LR236xy,7/1/1999,m,2 - 8 years,8/5/2004,,,8/31/2004,11/4/2004,,,,,6/30/2004,,male_labrador_page_6_table_1.csv
+LR237xy,7/1/2001,m,2 - 8 years,8/19/2006,,,8/29/2006,8/30/2006,,,,,,,male_labrador_page_6_table_1.csv
+LR238xy,7/1/1999,m,2 - 8 years,9/1/2004,,,9/9/2004,6/9/2005,,,,,,,male_labrador_page_6_table_1.csv
+LR239xy,7/1/1997,m,2 - 8 years,10/4/2002,9/16/2002,10/4/2002,10/4/2002,12/4/2002,,,,,,,male_labrador_page_6_table_1.csv
+LR240xy,7/1/1998,m,2 - 8 years,11/21/2003,11/20/2003,11/21/2003,11/21/2003,11/22/2003,,,,,,,male_labrador_page_6_table_1.csv
+LR241xy,4/15/1999,m,2 - 8 years,11/3/2004,10/26/2004,11/3/2004,11/3/2004,2/12/2008,,,,,,,male_labrador_page_6_table_1.csv
+LR242xy,8/7/1994,m,2 - 8 years,2/29/2000,2/29/2000,2/29/2000,2/29/2000,12/4/2001,,,,,,,male_labrador_page_6_table_1.csv
+LR243xy,6/1/1999,m,2 - 8 years,3/3/2005,,,10/19/2006,1/11/2007,,,,,,,male_labrador_page_6_table_1.csv
+LR244xy,11/1/1999,m,2 - 8 years,8/19/2005,,,8/27/2005,8/27/2005,,,,,,8/24/2005,male_labrador_page_6_table_1.csv
+LR245xy,6/1/1998,m,2 - 8 years,4/7/2004,1/13/2001,4/7/2004,4/7/2004,4/7/2004,,,,,,,male_labrador_page_6_table_1.csv
+LR246xy,7/1/2004,m,2 - 8 years,6/8/2010,12/15/2008,6/8/2010,6/8/2010,6/8/2010,,,,,,,male_labrador_page_6_table_1.csv
+LR247xy,7/1/2003,m,2 - 8 years,8/11/2009,5/11/2008,8/11/2009,8/11/2009,8/10/2009,,,,,,,male_labrador_page_6_table_1.csv
+LR248xy,3/1/1999,m,2 - 8 years,6/10/2005,6/9/2005,6/10/2005,6/10/2005,6/11/2005,,,,,,,male_labrador_page_6_table_1.csv
+LR249xy,7/1/1997,m,2 - 8 years,1/16/2004,1/15/2004,1/16/2004,1/16/2004,1/16/2004,,,,,,,male_labrador_page_6_table_1.csv
+LR250xy,7/1/1995,m,2 - 8 years,2/27/2002,2/26/2002,2/27/2002,2/27/2002,2/28/2002,,,,,,,male_labrador_page_6_table_1.csv
+LR251xy,7/1/1998,m,2 - 8 years,2/28/2005,2/22/2005,2/28/2005,2/28/2005,3/1/2005,,,,,,,male_labrador_page_6_table_1.csv
+LR252xy,9/8/1994,m,2 - 8 years,7/1/2001,,,12/4/2001,12/6/2001,,,,,,,male_labrador_page_6_table_1.csv
+LR253xy,7/1/1997,m,2 - 8 years,5/1/2004,,,8/12/2004,12/22/2004,,,,,6/12/2004,,male_labrador_page_6_table_1.csv
+LR254xy,7/1/1997,m,2 - 8 years,6/29/2004,,,10/22/2004,12/1/2004,,,,,,,male_labrador_page_6_table_1.csv
+LR255xy,7/1/1994,m,2 - 8 years,10/2/2001,9/25/2001,10/2/2001,10/2/2001,3/3/2003,,,,,9/4/2001,,male_labrador_page_6_table_1.csv
+LR256xy,2/27/2000,m,2 - 8 years,6/27/2007,1/22/2002,6/27/2007,6/27/2007,7/10/2007,,,,,,,male_labrador_page_6_table_1.csv
+LR257xy,7/1/1994,m,2 - 8 years,11/27/2001,11/26/2001,11/27/2001,11/27/2001,12/4/2002,,,,,,,male_labrador_page_6_table_1.csv
+LR258xy,7/1/1999,m,2 - 8 years,1/5/2007,1/5/2007,1/5/2007,1/5/2007,2/9/2007,,,,,,,male_labrador_page_6_table_1.csv
+LR259xy,7/1/1997,m,2 - 8 years,1/6/2005,12/6/2004,1/6/2005,1/6/2005,11/8/2005,,,,,,,male_labrador_page_7_table_1.csv
+LR260xy,4/5/1997,m,2 - 8 years,10/12/2004,9/20/2004,10/12/2004,10/12/2004,1/9/2006,,,,,8/1/2004,,male_labrador_page_7_table_1.csv
+LR261xy,12/1/1995,m,2 - 8 years,6/24/2003,6/23/2003,6/24/2003,6/24/2003,7/7/2003,,,,,,,male_labrador_page_7_table_1.csv
+LR262xy,5/6/2001,m,2 - 8 years,4/20/2009,,,5/11/2009,6/9/2009,,,,,,,male_labrador_page_7_table_1.csv
+LR263xy,7/1/1994,m,2 - 8 years,6/18/2002,4/7/2000,6/18/2002,6/18/2002,6/4/2003,,invalid,,,,,male_labrador_page_7_table_1.csv
+LR264xy,7/1/1996,m,2 - 8 years,8/20/2004,8/25/2000,8/20/2004,8/20/2004,8/21/2004,,,,,,,male_labrador_page_7_table_1.csv
+LR265xy,5/26/1996,m,2 - 8 years,8/23/2004,8/14/2002,8/23/2004,8/23/2004,11/18/2002,,,,,,,male_labrador_page_7_table_1.csv
+LR266xy,7/1/1993,m,2 - 8 years,10/17/2001,10/16/2001,10/17/2001,10/17/2001,12/28/2001,,,,,,,male_labrador_page_7_table_1.csv
+LR267xy,5/27/2001,m,2 - 8 years,10/8/2009,5/27/2009,10/8/2009,10/8/2009,12/9/2009,,,,,,,male_labrador_page_7_table_1.csv
+LR268xy,7/1/1998,m,2 - 8 years,11/13/2006,11/9/2006,11/13/2006,11/13/2006,11/14/2006,,,,,,,male_labrador_page_7_table_1.csv
+LR269xy,9/28/1992,m,2 - 8 years,3/14/2001,2/28/2001,3/14/2001,3/14/2001,3/15/2001,,,,,,,male_labrador_page_7_table_1.csv
+LR270xy,4/16/1998,m,2 - 8 years,11/1/2006,5/31/2006,11/1/2006,11/1/2006,5/31/2006,invalid,,,,,,male_labrador_page_7_table_1.csv
+LR271xy,10/1/1993,m,2 - 8 years,6/21/2002,6/20/2002,6/21/2002,6/21/2002,7/8/2002,,,,,,,male_labrador_page_7_table_1.csv
+LR272xy,1/1/2000,m,2 - 8 years,9/30/2008,9/8/2008,9/30/2008,9/30/2008,10/1/2008,,,,,,,male_labrador_page_7_table_1.csv
+LR273xy,8/24/1991,m,intact,,8/3/2000,8/7/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR274xy,9/2/1991,m,intact,,2/24/2000,2/27/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR275xy,12/26/1991,m,intact,,4/17/2000,6/10/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR276xy,2/1/1992,m,intact,,7/28/2000,7/28/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR277xy,5/26/1992,m,intact,,6/30/2000,6/30/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR278xy,8/1/1992,m,intact,,12/28/2000,12/28/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR279xy,9/4/1992,m,intact,,3/26/2001,6/1/2001,,,,,,,,,male_labrador_page_7_table_1.csv
+LR280xy,10/1/1992,m,intact,,1/31/2001,1/31/2001,,,,,,,,,male_labrador_page_7_table_1.csv
+LR281xy,6/1/1993,m,intact,,4/10/2001,4/10/2001,,,,,,,,,male_labrador_page_7_table_1.csv
+LR282xy,8/3/1993,m,intact,,6/27/2001,6/28/2001,,,,,,,,,male_labrador_page_7_table_1.csv
+LR283xy,8/30/1993,m,intact,,2/21/2001,2/21/2001,,,,,,,,,male_labrador_page_7_table_1.csv
+LR284xy,10/1/1993,m,intact,,11/15/2000,12/22/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR285xy,10/29/1993,m,intact,,,,,,,,,,invalid,,male_labrador_page_7_table_1.csv
+LR286xy,12/1/1993,m,intact,,2/20/2001,10/9/2002,,,,,,,,,male_labrador_page_7_table_1.csv
+LR287xy,1/1/1994,m,intact,,8/3/2000,9/15/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR288xy,2/1/1994,m,intact,,9/28/2000,10/15/2002,,,,,,,,,male_labrador_page_7_table_1.csv
+LR289xy,5/12/1994,m,intact,,6/12/2001,8/17/2001,,,,,,,,,male_labrador_page_7_table_1.csv
+LR290xy,5/26/1994,m,intact,,8/7/2000,8/7/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR291xy,6/1/1994,m,intact,,9/6/2000,9/22/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR292xy,6/1/1994,m,intact,,6/2/2001,6/7/2001,,,,,,,,,male_labrador_page_7_table_1.csv
+LR293xy,6/1/1994,m,intact,,5/8/2001,7/11/2001,,,,,,,,,male_labrador_page_7_table_1.csv
+LR294xy,6/21/1994,m,intact,,10/14/2000,1/21/2003,,,,invalid,,,,,male_labrador_page_7_table_1.csv
+LR295xy,8/1/1994,m,intact,,11/20/2002,1/16/2003,,,,,,,,10/20/2002,male_labrador_page_7_table_1.csv
+LR296xy,9/13/1994,m,intact,,11/19/2002,11/19/2002,,,,,,,,,male_labrador_page_7_table_1.csv
+LR297xy,9/25/1994,m,intact,,8/16/2000,9/5/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR298xy,9/28/1994,m,intact,,6/12/2001,1/7/2003,,,,,,invalid,,,male_labrador_page_7_table_1.csv
+LR299xy,10/1/1994,m,intact,,2/7/2000,1/15/2002,,,,,,,,,male_labrador_page_7_table_1.csv
+LR300xy,11/1/1994,m,intact,,3/6/2000,3/7/2000,,,,,,,,,male_labrador_page_7_table_1.csv
+LR301xy,11/1/1994,m,intact,,11/18/2002,11/22/2002,,,,,,,,,male_labrador_page_7_table_1.csv
+LR302xy,1/11/1995,m,intact,,5/5/2002,5/5/2002,,,,,,,,,male_labrador_page_8_table_1.csv
+LR303xy,1/26/1995,m,intact,,4/13/2000,4/13/2000,,,,,,,,,male_labrador_page_8_table_1.csv
+LR304xy,3/1/1995,m,intact,,3/18/2000,3/21/2000,,,,,,,,,male_labrador_page_8_table_1.csv
+LR305xy,3/11/1995,m,intact,,3/8/2004,3/8/2004,,,,,,,,,male_labrador_page_8_table_1.csv
+LR306xy,4/1/1995,m,intact,,3/19/2002,11/7/2002,,,,,,,,,male_labrador_page_8_table_1.csv
+LR307xy,4/1/1995,m,intact,,2/10/2004,3/17/2004,,,,,,,,,male_labrador_page_8_table_1.csv
+LR308xy,4/19/1995,m,intact,,6/24/2002,6/24/2002,,,,,,,,,male_labrador_page_8_table_1.csv
+LR309xy,5/5/1995,m,intact,,3/13/2000,10/23/2000,,,,,,,,,male_labrador_page_8_table_1.csv
+LR310xy,5/5/1995,m,intact,,5/31/2001,5/31/2001,,,,,,,,,male_labrador_page_8_table_1.csv
+LR311xy,6/28/1995,m,intact,,2/28/2002,4/26/2002,,,,,,,,,male_labrador_page_8_table_1.csv
+LR312xy,7/1/1995,m,intact,,7/28/2002,1/15/2003,,,,,,,,,male_labrador_page_8_table_1.csv
+LR313xy,11/23/1995,m,intact,,2/21/2003,3/3/2003,,,,,,,,,male_labrador_page_8_table_1.csv
+LR314xy,12/27/1995,m,intact,,9/26/2001,12/10/2001,,,,,,,9/18/2001,,male_labrador_page_8_table_1.csv
+LR315xy,1/1/1996,m,intact,,5/1/2000,5/2/2000,,,,,,,,,male_labrador_page_8_table_1.csv
+LR316xy,1/1/1996,m,intact,,7/5/2001,7/12/2001,,,,,,,,,male_labrador_page_8_table_1.csv
+LR317xy,1/12/1996,m,intact,,3/6/2000,3/6/2000,,,,,,,,,male_labrador_page_8_table_1.csv
+LR318xy,2/1/1996,m,intact,,3/16/2000,3/30/2000,,,,,,,,,male_labrador_page_8_table_1.csv
+LR319xy,2/11/1996,m,intact,,1/14/2000,1/14/2000,,,,,,,,,male_labrador_page_8_table_1.csv
+LR320xy,3/7/1996,m,intact,,1/19/2001,7/3/2004,,,,,,,,,male_labrador_page_8_table_1.csv
+LR321xy,3/28/1996,m,intact,,9/17/2002,9/17/2002,,,,,,,,,male_labrador_page_8_table_1.csv
+LR322xy,3/30/1996,m,intact,,12/4/2000,2/19/2002,,,,invalid,,invalid,12/4/2000,,male_labrador_page_8_table_1.csv
+LR323xy,5/1/1996,m,intact,,11/20/2002,11/20/2002,,,invalid,,,,,,male_labrador_page_8_table_1.csv
+LR324xy,5/25/1996,m,intact,,1/18/2001,2/5/2001,,,,,,,,,male_labrador_page_8_table_1.csv
+LR325xy,7/1/1996,m,intact,,8/3/2000,8/3/2000,,,,,,,,,male_labrador_page_8_table_1.csv
+LR326xy,7/1/1996,m,intact,,5/14/2003,12/3/2003,,,invalid,,invalid,,,,male_labrador_page_8_table_1.csv
+LR327xy,8/26/1996,m,intact,,8/15/2005,8/15/2005,,,,,,,,,male_labrador_page_8_table_1.csv
+LR328xy,9/20/1996,m,intact,,2/21/2003,12/2/2003,,,,,,,,,male_labrador_page_8_table_1.csv
+LR329xy,10/1/1996,m,intact,,8/21/2000,8/11/2005,,,,,,,,,male_labrador_page_8_table_1.csv
+LR330xy,10/6/1996,m,intact,,4/19/2004,6/14/2004,,,,,,,,,male_labrador_page_8_table_1.csv
+LR331xy,10/18/1996,m,intact,,11/20/2002,11/20/2002,,,,,,,,,male_labrador_page_8_table_1.csv
+LR332xy,11/4/1996,m,intact,,6/4/2004,6/4/2004,,,,,,,,,male_labrador_page_8_table_1.csv
+LR333xy,11/11/1996,m,intact,,2/21/2002,4/12/2002,,,,,,2/12/2002,,,male_labrador_page_8_table_1.csv
+LR334xy,12/1/1996,m,intact,,9/18/2001,9/18/2001,,,,,,,,,male_labrador_page_8_table_1.csv
+LR335xy,12/1/1996,m,intact,,12/8/2001,12/8/2001,,,,,,,,,male_labrador_page_8_table_1.csv
+LR336xy,1/22/1997,m,intact,,5/23/2002,5/23/2002,,,,,,,,,male_labrador_page_8_table_1.csv
+LR337xy,2/14/1997,m,intact,,8/13/2001,1/20/2004,,,,,,,,,male_labrador_page_8_table_1.csv
+LR338xy,3/1/1997,m,intact,,3/5/2001,3/10/2001,,,,,,,,,male_labrador_page_8_table_1.csv
+LR339xy,3/1/1997,m,intact,,7/25/2004,8/27/2004,,,,,,,,,male_labrador_page_8_table_1.csv
+LR340xy,3/7/1997,m,intact,,,,,,,,,,,,male_labrador_page_8_table_1.csv
+LR341xy,4/1/1997,m,intact,,5/15/2000,5/15/2000,,,,,,,,,male_labrador_page_8_table_1.csv
+LR342xy,4/1/1997,m,intact,,4/14/2001,4/14/2001,,,,,,,,,male_labrador_page_8_table_1.csv
+LR343xy,4/1/1997,m,intact,,7/9/2001,7/9/2001,,,,,,,,,male_labrador_page_8_table_1.csv
+LR344xy,4/1/1997,m,intact,,10/15/2001,7/19/2002,,,,,,,,,male_labrador_page_8_table_1.csv
+LR345xy,4/6/1997,m,intact,,2/21/2006,2/21/2006,,,,,,,,,male_labrador_page_9_table_1.csv
+LR346xy,5/13/1997,m,intact,,10/24/2000,11/16/2005,,,,,invalid,,,,male_labrador_page_9_table_1.csv
+LR347xy,7/30/1997,m,intact,,10/2/2001,10/11/2001,,,,,,,,,male_labrador_page_9_table_1.csv
+LR348xy,7/30/1997,m,intact,,5/27/2003,2/17/2004,,,,,,,,,male_labrador_page_9_table_1.csv
+LR349xy,8/2/1997,m,intact,,10/26/2000,10/16/2002,,,,,,,,,male_labrador_page_9_table_1.csv
+LR350xy,9/20/1997,m,intact,,6/29/2000,6/3/2002,,,,,,,,,male_labrador_page_9_table_1.csv
+LR351xy,10/1/1997,m,intact,,10/9/2000,1/9/2001,,,,,,,,,male_labrador_page_9_table_1.csv
+LR352xy,10/17/1997,m,intact,,4/10/2000,4/11/2000,,,,,,,,,male_labrador_page_9_table_1.csv
+LR353xy,10/22/1997,m,intact,,7/20/2001,7/20/2001,,,,,,,,,male_labrador_page_9_table_1.csv
+LR354xy,10/31/1997,m,intact,,1/27/2005,2/17/2005,,,,,,,,,male_labrador_page_9_table_1.csv
+LR355xy,11/28/1997,m,intact,,3/23/2005,4/11/2005,,,,,,,,,male_labrador_page_9_table_1.csv
+LR356xy,1/1/1998,m,intact,,1/25/2004,1/25/2004,,,,,,,,,male_labrador_page_9_table_1.csv
+LR357xy,1/1/1998,m,intact,,8/25/2004,8/29/2004,,,,,,,,,male_labrador_page_9_table_1.csv
+LR358xy,1/28/1998,m,intact,,3/10/2000,5/1/2002,,,,,,,,,male_labrador_page_9_table_1.csv
+LR359xy,2/1/1998,m,intact,,1/5/2000,1/5/2000,,,,,,,,,male_labrador_page_9_table_1.csv
+LR360xy,2/1/1998,m,intact,,2/26/2001,2/26/2001,,,,invalid,,,,,male_labrador_page_9_table_1.csv
+LR361xy,2/2/1998,m,intact,,2/7/2006,2/9/2006,,,,,,,,,male_labrador_page_9_table_1.csv
+LR362xy,4/15/1998,m,intact,,3/31/2005,4/4/2005,,,,,,,,,male_labrador_page_9_table_1.csv
+LR363xy,4/23/1998,m,intact,,11/21/2005,11/21/2005,,,,,,,,,male_labrador_page_9_table_1.csv
+LR364xy,5/1/1998,m,intact,,3/28/2000,3/28/2000,,,,,,,,,male_labrador_page_9_table_1.csv
+LR365xy,5/1/1998,m,intact,,5/3/2000,7/24/2000,,,,2/1/2000,,,,,male_labrador_page_9_table_1.csv
+LR366xy,5/1/1998,m,intact,,1/16/2001,5/16/2001,,,,,,,,,male_labrador_page_9_table_1.csv
+LR367xy,5/1/1998,m,intact,,8/13/2001,6/27/2003,,,,,,,,,male_labrador_page_9_table_1.csv
+LR368xy,5/15/1998,m,intact,,3/15/2002,8/26/2002,,,,,,,1/15/2002,,male_labrador_page_9_table_1.csv
+LR369xy,5/31/1998,m,intact,,2/19/2003,9/8/2005,,,,,,,,,male_labrador_page_9_table_1.csv
+LR370xy,6/1/1998,m,intact,,12/19/2000,12/27/2000,,,,,,,,,male_labrador_page_9_table_1.csv
+LR371xy,6/1/1998,m,intact,,5/3/2001,5/3/2001,,,,,,,,,male_labrador_page_9_table_1.csv
+LR372xy,7/1/1998,m,intact,,7/19/2000,7/19/2000,,,7/19/2000,,,,,,male_labrador_page_9_table_1.csv
+LR373xy,7/21/1998,m,intact,,5/17/2006,5/17/2006,,,,7/1/2005,,,,,male_labrador_page_9_table_1.csv
+LR374xy,7/27/1998,m,intact,,2/16/2005,11/2/2006,,,1/16/2005,,,,,,male_labrador_page_9_table_1.csv
+LR375xy,8/1/1998,m,intact,,1/20/2000,1/20/2000,,,,,,,,,male_labrador_page_9_table_1.csv
+LR376xy,8/27/1998,m,intact,,8/9/2000,12/14/2000,,,,,,,,,male_labrador_page_9_table_1.csv
+LR377xy,9/28/1998,m,intact,,6/3/2005,6/3/2005,,,,,,,,,male_labrador_page_9_table_1.csv
+LR378xy,9/30/1998,m,intact,,11/13/2002,4/16/2003,,,,,invalid,,,,male_labrador_page_9_table_1.csv
+LR379xy,10/16/1998,m,intact,,3/28/2007,5/9/2007,,,,,,,,,male_labrador_page_9_table_1.csv
+LR380xy,10/16/1998,m,intact,,4/12/2006,5/11/2007,,,,,invalid,,,,male_labrador_page_9_table_1.csv
+LR381xy,10/16/1998,m,intact,,,,,,,,,,,invalid,male_labrador_page_9_table_1.csv
+LR382xy,11/1/1998,m,intact,,3/16/2000,3/18/2000,,,,,,,,,male_labrador_page_9_table_1.csv
+LR383xy,11/1/1998,m,intact,,7/19/2000,8/21/2000,,,,,,,,,male_labrador_page_9_table_1.csv
+LR384xy,11/1/1998,m,intact,,7/12/2002,7/12/2002,,,,,,,,,male_labrador_page_9_table_1.csv
+LR385xy,11/1/1998,m,intact,,1/27/2003,7/17/2007,,,,,,,,,male_labrador_page_9_table_1.csv
+LR386xy,11/1/1998,m,intact,,9/11/2001,8/16/2006,,,,,,,,,male_labrador_page_9_table_1.csv
+LR387xy,12/10/1998,m,intact,,7/3/2000,7/3/2000,,,,,invalid,,,,male_labrador_page_9_table_1.csv
+LR388xy,12/21/1998,m,intact,,5/19/2000,5/19/2000,,,,,,,,,male_labrador_page_10_table_1.csv
+LR389xy,12/24/1998,m,intact,,12/7/2001,12/7/2001,,,,,,,,,male_labrador_page_10_table_1.csv
+LR390xy,1/1/1999,m,intact,,5/31/2001,6/1/2001,,,,,,,,,male_labrador_page_10_table_1.csv
+LR391xy,1/1/1999,m,intact,,6/8/2000,6/19/2000,,,,,,,,,male_labrador_page_10_table_1.csv
+LR392xy,1/4/1999,m,intact,,10/10/2003,5/13/2004,,,,,,,,,male_labrador_page_10_table_1.csv
+LR393xy,1/11/1999,m,intact,,5/27/2005,5/27/2005,,,,,,,,,male_labrador_page_10_table_1.csv
+LR394xy,3/1/1999,m,intact,,2/6/2002,2/7/2002,,,,,,,,,male_labrador_page_10_table_1.csv
+LR395xy,3/22/1999,m,intact,,5/25/2000,4/16/2001,,,,,,,,,male_labrador_page_10_table_1.csv
+LR396xy,3/31/1999,m,intact,,10/15/2001,10/19/2001,,,,,10/15/2000,,,,male_labrador_page_10_table_1.csv
+LR397xy,4/1/1999,m,intact,,6/14/2000,6/14/2000,,,4/14/2000,,,,,,male_labrador_page_10_table_1.csv
+LR398xy,4/2/1999,m,intact,,12/10/2002,8/8/2007,,,,,,,,,male_labrador_page_10_table_1.csv
+LR399xy,4/5/1999,m,intact,,5/10/2001,5/10/2001,,,,,,,,,male_labrador_page_10_table_1.csv
+LR400xy,4/17/1999,m,intact,,3/25/2004,3/25/2004,,,,,,,,,male_labrador_page_10_table_1.csv
+LR401xy,4/18/1999,m,intact,,1/28/2002,3/26/2003,,,,,,,,,male_labrador_page_10_table_1.csv
+LR402xy,5/10/1999,m,intact,,5/30/2001,6/1/2001,,,,,,,,,male_labrador_page_10_table_1.csv
+LR403xy,6/1/1999,m,intact,,2/4/2006,2/4/2006,,,2/4/2006,,,,,,male_labrador_page_10_table_1.csv
+LR404xy,7/1/1999,m,intact,,11/10/2003,11/14/2003,,,,,,,,,male_labrador_page_10_table_1.csv
+LR405xy,7/1/1999,m,intact,,8/6/2007,8/6/2007,,,,,,,,,male_labrador_page_10_table_1.csv
+LR406xy,7/3/1999,m,intact,,3/5/2008,3/10/2008,,,,,,,,,male_labrador_page_10_table_1.csv
+LR407xy,7/5/1999,m,intact,,8/6/2001,8/6/2001,,,,,,,,,male_labrador_page_10_table_1.csv
+LR408xy,7/19/1999,m,intact,,1/29/2001,1/29/2001,,,,1/15/2001,invalid,,,,male_labrador_page_10_table_1.csv
+LR409xy,7/29/1999,m,intact,,10/19/2000,10/23/2000,,,,,,,,,male_labrador_page_10_table_1.csv
+LR410xy,9/10/1999,m,intact,,10/8/2002,10/8/2002,,,,,,,,,male_labrador_page_10_table_1.csv
+LR411xy,10/1/1999,m,intact,,6/26/2001,8/6/2001,,,,,,,,,male_labrador_page_10_table_1.csv
+LR412xy,10/1/1999,m,intact,,3/10/2005,3/12/2005,,,,,,,,,male_labrador_page_10_table_1.csv
+LR413xy,10/1/1999,m,intact,,10/3/2005,10/3/2005,,,,,,,,,male_labrador_page_10_table_1.csv
+LR414xy,10/17/1999,m,intact,,7/11/2005,7/11/2005,,,,,,,,,male_labrador_page_10_table_1.csv
+LR415xy,10/25/1999,m,intact,,6/21/2001,6/21/2001,,,invalid,,,,,,male_labrador_page_10_table_1.csv
+LR416xy,11/25/1999,m,intact,,2/20/2002,2/20/2002,,,,,,,,,male_labrador_page_10_table_1.csv
+LR417xy,12/1/1999,m,intact,,12/13/2007,12/13/2007,,,,,,,,,male_labrador_page_10_table_1.csv
+LR418xy,12/26/1999,m,intact,,12/26/2007,12/28/2007,,,,,,,,,male_labrador_page_10_table_1.csv
+LR419xy,1/1/2000,m,intact,,7/25/2002,7/25/2002,,,,,,,,,male_labrador_page_10_table_1.csv
+LR420xy,1/1/2000,m,intact,,1/27/2003,1/27/2003,,,,,,,,,male_labrador_page_10_table_1.csv
+LR421xy,1/1/2000,m,intact,,12/28/2004,12/30/2004,,,,,,,,,male_labrador_page_10_table_1.csv
+LR422xy,2/5/2000,m,intact,,7/24/2002,7/24/2002,,,,,,,,,male_labrador_page_10_table_1.csv
+LR423xy,2/21/2000,m,intact,,4/5/2001,4/5/2001,,,,,,,,,male_labrador_page_10_table_1.csv
+LR424xy,5/1/2000,m,intact,,11/14/2001,11/15/2001,,,,,,,,,male_labrador_page_10_table_1.csv
+LR425xy,5/1/2000,m,intact,,11/5/2002,2/13/2003,,,,,,,,,male_labrador_page_10_table_1.csv
+LR426xy,5/1/2000,m,intact,,12/29/2005,12/29/2005,,,,,,,,,male_labrador_page_10_table_1.csv
+LR427xy,5/12/2000,m,intact,,1/31/2009,1/31/2009,,,,,,,,,male_labrador_page_10_table_1.csv
+LR428xy,6/1/2000,m,intact,,,,,,,,,,invalid,,male_labrador_page_10_table_1.csv
+LR429xy,7/1/2000,m,intact,,7/9/2003,7/9/2003,,,,,,,,,male_labrador_page_10_table_1.csv
+LR430xy,7/1/2000,m,intact,,6/17/2009,6/17/2009,,,,,,,,,male_labrador_page_10_table_1.csv
+LR431xy,7/3/2000,m,intact,,10/5/2001,10/5/2001,,,,,,,,,male_labrador_page_11_table_1.csv
+LR432xy,8/1/2000,m,intact,,8/17/2001,8/17/2001,,,,,,,,,male_labrador_page_11_table_1.csv
+LR433xy,8/1/2000,m,intact,,8/25/2007,9/3/2007,,,,,,,,,male_labrador_page_11_table_1.csv
+LR434xy,8/1/2000,m,intact,,9/20/2007,9/20/2007,,,,,,,,,male_labrador_page_11_table_1.csv
+LR435xy,8/18/2000,m,intact,,8/30/2001,8/30/2001,,,,,,,,,male_labrador_page_11_table_1.csv
+LR436xy,9/1/2000,m,intact,,9/17/2001,9/17/2001,,,,,,,,,male_labrador_page_11_table_1.csv
+LR437xy,9/8/2000,m,intact,,4/25/2002,4/25/2002,,,,,,,,,male_labrador_page_11_table_1.csv
+LR438xy,10/1/2000,m,intact,,6/29/2004,6/29/2004,,,,,,,,,male_labrador_page_11_table_1.csv
+LR439xy,10/1/2000,m,intact,,3/11/2005,3/11/2005,,,,,,,,,male_labrador_page_11_table_1.csv
+LR440xy,10/9/2000,m,intact,,8/9/2005,7/5/2006,,,,,,,,,male_labrador_page_11_table_1.csv
+LR441xy,10/9/2000,m,intact,,5/7/2003,6/16/2008,,,,3/16/2008,,,,,male_labrador_page_11_table_1.csv
+LR442xy,10/22/2000,m,intact,,10/28/2002,11/2/2002,,,,,,,,,male_labrador_page_11_table_1.csv
+LR443xy,12/1/2000,m,intact,,10/20/2004,10/20/2004,,,,,,,,,male_labrador_page_11_table_1.csv
+LR444xy,12/20/2000,m,intact,,3/4/2002,3/4/2002,,,,,,,,,male_labrador_page_11_table_1.csv
+LR445xy,1/1/2001,m,intact,,10/14/2003,10/14/2003,,,,,,,,,male_labrador_page_11_table_1.csv
+LR446xy,1/1/2001,m,intact,,1/23/2002,1/23/2002,,,,,,,,,male_labrador_page_11_table_1.csv
+LR447xy,1/1/2001,m,intact,,5/16/2002,5/16/2002,,,,,,,,,male_labrador_page_11_table_1.csv
+LR448xy,1/16/2001,m,intact,,10/31/2002,4/17/2002,,,invalid,,invalid,,,,male_labrador_page_11_table_1.csv
+LR449xy,1/16/2001,m,intact,,8/1/2002,8/1/2002,,,,,,,,,male_labrador_page_11_table_1.csv
+LR450xy,2/22/2001,m,intact,,5/31/2006,5/31/2006,,,,,,,,,male_labrador_page_11_table_1.csv
+LR451xy,3/15/2001,m,intact,,8/26/2005,8/26/2005,,,,,,,,,male_labrador_page_11_table_1.csv
+LR452xy,3/15/2001,m,intact,,8/26/2005,12/15/2005,,,,,,,,,male_labrador_page_11_table_1.csv
+LR453xy,4/15/2001,m,intact,,3/18/2008,5/9/2008,,,,,,,,,male_labrador_page_11_table_1.csv
+LR454xy,4/29/2001,m,intact,,5/12/2008,4/19/2010,,,,,,2/6/2010,,,male_labrador_page_11_table_1.csv
+LR455xy,5/1/2001,m,intact,,8/23/2006,11/30/2006,,,,,,,,,male_labrador_page_11_table_1.csv
+LR456xy,5/4/2001,m,intact,,6/25/2009,6/27/2009,,,,,,,,,male_labrador_page_11_table_1.csv
+LR457xy,5/15/2001,m,intact,,11/6/2003,11/7/2003,,,,,,,,,male_labrador_page_11_table_1.csv
+LR458xy,6/1/2001,m,intact,,6/4/2002,6/4/2002,,,,,,,,,male_labrador_page_11_table_1.csv
+LR459xy,6/7/2001,m,intact,,2/28/2007,6/18/2009,,,,,,,,,male_labrador_page_11_table_1.csv
+LR460xy,8/27/2001,m,intact,,8/27/2009,9/15/2009,,,,,,,,invalid,male_labrador_page_11_table_1.csv
+LR461xy,9/14/2001,m,intact,,3/28/2005,4/12/2005,,,,,,,,10/28/2004,male_labrador_page_11_table_1.csv
+LR462xy,11/1/2001,m,intact,,5/18/2005,5/18/2005,,,,,,,,,male_labrador_page_11_table_1.csv
+LR463xy,12/1/2001,m,intact,,11/12/2003,3/4/2004,,,,,,,,,male_labrador_page_11_table_1.csv
+LR464xy,12/15/2001,m,intact,,3/15/2003,3/15/2003,,,,,,,,,male_labrador_page_11_table_1.csv
+LR465xy,12/20/2001,m,intact,,10/16/2003,10/16/2003,,,,,,,,,male_labrador_page_11_table_1.csv
+LR466xy,12/20/2001,m,intact,,1/15/2004,7/22/2004,,,,,,,,,male_labrador_page_11_table_1.csv
+LR467xy,1/1/2002,m,intact,,3/9/2006,4/10/2006,,,,,,,,,male_labrador_page_11_table_1.csv
+LR468xy,2/1/2002,m,intact,,6/1/2007,6/5/2007,,,,,,,,,male_labrador_page_11_table_1.csv
+LR469xy,3/2/2002,m,intact,,3/12/2006,3/14/2006,,,,,,,,,male_labrador_page_11_table_1.csv
+LR470xy,3/11/2002,m,intact,,5/10/2005,9/6/2005,,,,,,,,,male_labrador_page_11_table_1.csv
+LR471xy,3/27/2002,m,intact,,4/3/2008,5/7/2008,,,,,,,,,male_labrador_page_11_table_1.csv
+LR472xy,4/20/2002,m,intact,,2/11/2004,2/11/2004,,,11/1/2003,,,,,,male_labrador_page_11_table_1.csv
+LR473xy,4/27/2002,m,intact,,12/27/2004,12/28/2004,,,,,,,,,male_labrador_page_11_table_1.csv
+LR474xy,4/28/2002,m,intact,,4/2/2004,4/3/2004,,,,,,,,,male_labrador_page_12_table_1.csv
+LR475xy,4/28/2002,m,intact,,5/14/2008,5/14/2008,,,,,,,,,male_labrador_page_12_table_1.csv
+LR476xy,5/1/2002,m,intact,,8/17/2005,8/18/2005,,,,,,,,,male_labrador_page_12_table_1.csv
+LR477xy,5/1/2002,m,intact,,6/5/2007,6/5/2007,,,,,,,,,male_labrador_page_12_table_1.csv
+LR478xy,6/1/2002,m,intact,,7/25/2003,9/25/2003,,,,,,,,,male_labrador_page_12_table_1.csv
+LR479xy,6/13/2002,m,intact,,1/5/2004,1/5/2004,,,,,,,,,male_labrador_page_12_table_1.csv
+LR480xy,6/19/2002,m,intact,,11/30/2008,12/2/2008,,,,,,,,,male_labrador_page_12_table_1.csv
+LR481xy,7/7/2002,m,intact,,12/18/2003,12/18/2003,,,,,,,,,male_labrador_page_12_table_1.csv
+LR482xy,8/4/2002,m,intact,,8/6/2008,4/6/2010,,,,,,,,4/1/2009,male_labrador_page_12_table_1.csv
+LR483xy,8/11/2002,m,intact,,10/2/2003,10/3/2003,,,,,,,,,male_labrador_page_12_table_1.csv
+LR484xy,8/20/2002,m,intact,,1/10/2005,1/14/2005,,,,,,,,,male_labrador_page_12_table_1.csv
+LR485xy,8/31/2002,m,intact,,8/24/2006,6/6/2008,,,,,,,,,male_labrador_page_12_table_1.csv
+LR486xy,10/1/2002,m,intact,,10/10/2004,10/15/2004,,,,,,,,,male_labrador_page_12_table_1.csv
+LR487xy,11/10/2002,m,intact,,7/5/2007,4/8/2011,,,,,,,,,male_labrador_page_12_table_1.csv
+LR488xy,11/15/2002,m,intact,,10/17/2005,2/6/2006,,,,,,,,,male_labrador_page_12_table_1.csv
+LR489xy,12/1/2002,m,intact,,5/3/2006,5/3/2006,,,,,,,,,male_labrador_page_12_table_1.csv
+LR490xy,12/1/2002,m,intact,,11/30/2008,8/14/2009,,,,,,,,,male_labrador_page_12_table_1.csv
+LR491xy,12/9/2002,m,intact,,3/23/2006,3/23/2006,,,,,,,,,male_labrador_page_12_table_1.csv
+LR492xy,12/11/2002,m,intact,,6/17/2008,8/1/2008,,,,,,,,,male_labrador_page_12_table_1.csv
+LR493xy,12/12/2002,m,intact,,10/9/2007,5/27/2010,,,,,,,,,male_labrador_page_12_table_1.csv
+LR494xy,12/12/2002,m,intact,,11/6/2007,12/6/2007,,,,,,,,,male_labrador_page_12_table_1.csv
+LR495xy,1/1/2003,m,intact,,1/27/2006,1/31/2006,,,,,,,,,male_labrador_page_12_table_1.csv
+LR496xy,1/1/2003,m,intact,,1/29/2004,1/29/2004,,,,,,,,,male_labrador_page_12_table_1.csv
+LR497xy,1/1/2003,m,intact,,2/9/2004,2/9/2004,,,,,,,,,male_labrador_page_12_table_1.csv
+LR498xy,1/1/2003,m,intact,,3/2/2004,3/4/2004,,,,,,,,,male_labrador_page_12_table_1.csv
+LR499xy,1/7/2003,m,intact,,5/9/2008,5/9/2008,,,,,,,,,male_labrador_page_12_table_1.csv
+LR500xy,2/1/2003,m,intact,,4/5/2004,4/5/2004,,,,invalid,,,,,male_labrador_page_12_table_1.csv
+LR501xy,2/3/2003,m,intact,,2/22/2004,10/29/2004,,,,,,,,,male_labrador_page_12_table_1.csv
+LR502xy,2/18/2003,m,intact,,3/24/2004,3/24/2004,,,,invalid,,,,,male_labrador_page_12_table_1.csv
+LR503xy,4/3/2003,m,intact,,2/13/2005,9/20/2005,,,,,,,,,male_labrador_page_12_table_1.csv
+LR504xy,4/26/2003,m,intact,,8/27/2007,8/27/2007,,,,,,,,,male_labrador_page_12_table_1.csv
+LR505xy,4/30/2003,m,intact,,6/21/2006,12/1/2006,,,,,,,,,male_labrador_page_12_table_1.csv
+LR506xy,5/3/2003,m,intact,,10/3/2004,10/5/2004,,,invalid,,,,,,male_labrador_page_12_table_1.csv
+LR507xy,7/18/2003,m,intact,,8/26/2004,8/27/2004,,,,,,,,,male_labrador_page_12_table_1.csv
+LR508xy,8/22/2003,m,intact,,10/17/2005,10/17/2005,,,,,,,,,male_labrador_page_12_table_1.csv
+LR509xy,9/1/2003,m,intact,,7/27/2009,8/20/2009,,,,,,,,,male_labrador_page_12_table_1.csv
+LR510xy,9/26/2003,m,intact,,8/27/2007,8/27/2007,,,,,,,,,male_labrador_page_12_table_1.csv
+LR511xy,10/1/2003,m,intact,,2/3/2007,2/3/2007,,,,,,,,,male_labrador_page_12_table_1.csv
+LR512xy,11/11/2003,m,intact,,6/19/2006,6/28/2006,,,,,,,,,male_labrador_page_12_table_1.csv
+LR513xy,11/18/2003,m,intact,,6/26/2008,3/29/2011,,,,,,,invalid,,male_labrador_page_12_table_1.csv
+LR514xy,12/5/2003,m,intact,,4/3/2008,4/3/2008,,,,,,,,,male_labrador_page_12_table_1.csv
+LR515xy,1/1/2004,m,intact,,4/26/2005,4/29/2005,,,,,,,,,male_labrador_page_12_table_1.csv
+LR516xy,1/4/2004,m,intact,,7/22/2008,9/1/2009,,,,,invalid,,5/22/2008,,male_labrador_page_12_table_1.csv
+LR517xy,1/7/2004,m,intact,,2/13/2005,3/13/2005,,,,,,,,,male_labrador_page_13_table_1.csv
+LR518xy,1/24/2004,m,intact,,7/7/2009,7/22/2009,,,,,,,,,male_labrador_page_13_table_1.csv
+LR519xy,2/5/2004,m,intact,,1/30/2006,1/30/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR520xy,2/24/2004,m,intact,,7/1/2009,7/2/2009,,,,,,,,,male_labrador_page_13_table_1.csv
+LR521xy,3/31/2004,m,intact,,4/11/2005,4/11/2005,,,,,,,,,male_labrador_page_13_table_1.csv
+LR522xy,4/1/2004,m,intact,,11/8/2005,11/11/2005,,,,,,,,,male_labrador_page_13_table_1.csv
+LR523xy,4/20/2004,m,intact,,12/31/2005,12/31/2005,,,,,,,,,male_labrador_page_13_table_1.csv
+LR524xy,4/24/2004,m,intact,,2/4/2007,2/4/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR525xy,4/26/2004,m,intact,,2/3/2007,2/17/2007,,,,,2/3/2007,,,,male_labrador_page_13_table_1.csv
+LR526xy,5/1/2004,m,intact,,10/28/2006,10/30/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR527xy,5/26/2004,m,intact,,6/9/2006,6/9/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR528xy,6/1/2004,m,intact,,10/9/2006,10/27/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR529xy,6/1/2004,m,intact,,1/3/2007,1/4/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR530xy,6/1/2004,m,intact,,4/18/2008,4/18/2008,,,,,,,,,male_labrador_page_13_table_1.csv
+LR531xy,8/6/2004,m,intact,,8/9/2007,8/9/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR532xy,9/1/2004,m,intact,,8/16/2006,8/16/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR533xy,9/11/2004,m,intact,,3/12/2009,3/12/2009,,,,,,,,,male_labrador_page_13_table_1.csv
+LR534xy,10/1/2004,m,intact,,11/19/2005,6/24/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR535xy,12/15/2004,m,intact,,12/6/2008,1/22/2009,,,,,,,,,male_labrador_page_13_table_1.csv
+LR536xy,12/24/2004,m,intact,,1/4/2006,2/8/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR537xy,1/1/2005,m,intact,,1/11/2006,1/11/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR538xy,1/1/2005,m,intact,,2/8/2006,2/8/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR539xy,1/1/2005,m,intact,,3/3/2006,3/3/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR540xy,1/2/2005,m,intact,,4/20/2008,5/16/2008,,,,,,,,,male_labrador_page_13_table_1.csv
+LR541xy,1/13/2005,m,intact,,7/12/2006,7/13/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR542xy,1/24/2005,m,intact,,7/27/2009,12/17/2009,,,,,,,,,male_labrador_page_13_table_1.csv
+LR543xy,3/1/2005,m,intact,,5/3/2006,6/14/2006,,,invalid,,,,,,male_labrador_page_13_table_1.csv
+LR544xy,3/18/2005,m,intact,,4/12/2007,6/22/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR545xy,4/17/2005,m,intact,,9/18/2008,9/18/2008,,,,,,,,,male_labrador_page_13_table_1.csv
+LR546xy,5/4/2005,m,intact,,10/4/2007,6/8/2010,,,,,,,,,male_labrador_page_13_table_1.csv
+LR547xy,7/15/2005,m,intact,,12/16/2006,12/22/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR548xy,8/7/2005,m,intact,,3/29/2008,3/31/2008,,,,,,,,,male_labrador_page_13_table_1.csv
+LR549xy,8/24/2005,m,intact,,11/13/2006,12/22/2006,,,,,,,,,male_labrador_page_13_table_1.csv
+LR550xy,9/30/2005,m,intact,,8/20/2007,8/20/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR551xy,11/21/2005,m,intact,,2/17/2007,4/13/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR552xy,1/1/2006,m,intact,,7/8/2007,7/8/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR553xy,1/1/2006,m,intact,,5/20/2007,6/13/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR554xy,1/9/2006,m,intact,,1/10/2008,1/10/2008,,,1/10/2008,,,,,,male_labrador_page_13_table_1.csv
+LR555xy,1/19/2006,m,intact,,1/25/2007,1/25/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR556xy,1/29/2006,m,intact,,8/28/2007,9/8/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR557xy,2/1/2006,m,intact,,3/10/2009,6/3/2011,,,,,,,,,male_labrador_page_13_table_1.csv
+LR558xy,2/14/2006,m,intact,,4/27/2007,9/6/2007,,,,,,,,,male_labrador_page_13_table_1.csv
+LR559xy,2/25/2006,m,intact,,1/29/2009,2/3/2009,,,,,,,,,male_labrador_page_13_table_1.csv
+LR560xy,5/1/2006,m,intact,,3/23/2009,3/23/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR561xy,6/6/2006,m,intact,,12/4/2009,12/4/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR562xy,6/29/2006,m,intact,,8/14/2009,11/29/2011,,,,,,,,,male_labrador_page_14_table_1.csv
+LR563xy,7/4/2006,m,intact,,7/5/2007,7/5/2007,,,,,,,,,male_labrador_page_14_table_1.csv
+LR564xy,9/1/2006,m,intact,,9/25/2007,3/6/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR565xy,10/15/2006,m,intact,,9/12/2009,9/12/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR566xy,10/20/2006,m,intact,,10/25/2008,7/25/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR567xy,10/30/2006,m,intact,,10/15/2008,10/15/2008,,,,,,,,,male_labrador_page_14_table_1.csv
+LR568xy,11/10/2006,m,intact,,11/11/2008,11/12/2008,,,,,,,,,male_labrador_page_14_table_1.csv
+LR569xy,11/21/2006,m,intact,,7/13/2009,7/13/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR570xy,1/1/2007,m,intact,,8/25/2008,8/25/2008,,,,,,,,,male_labrador_page_14_table_1.csv
+LR571xy,1/27/2007,m,intact,,5/31/2009,5/31/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR572xy,2/6/2007,m,intact,,2/9/2009,2/9/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR573xy,4/2/2007,m,intact,,4/9/2008,4/11/2008,,,,,,,,,male_labrador_page_14_table_1.csv
+LR574xy,4/2/2007,m,intact,,7/8/2008,7/8/2008,,,invalid,,,,,,male_labrador_page_14_table_1.csv
+LR575xy,4/2/2007,m,intact,,11/24/2008,7/16/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR576xy,5/1/2007,m,intact,,3/24/2009,5/10/2012,,,,,,,,,male_labrador_page_14_table_1.csv
+LR577xy,6/8/2007,m,intact,,8/22/2009,8/22/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR578xy,7/1/2007,m,intact,,11/23/2008,12/8/2008,,,,,,,,,male_labrador_page_14_table_1.csv
+LR579xy,7/6/2007,m,intact,,2/4/2009,5/26/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR580xy,7/26/2007,m,intact,,11/9/2009,11/9/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR581xy,10/10/2007,m,intact,,7/30/2009,9/28/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR582xy,12/20/2007,m,intact,,12/20/2009,12/25/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR583xy,2/1/2008,m,intact,,10/14/2009,10/14/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR584xy,2/13/2008,m,intact,,11/30/2009,2/9/2010,,,,,,,,,male_labrador_page_14_table_1.csv
+LR585xy,3/27/2008,m,intact,,7/20/2009,7/25/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR586xy,4/3/2008,m,intact,,6/2/2009,8/21/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR587xy,5/15/2008,m,intact,,9/10/2009,11/13/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR588xy,5/23/2008,m,intact,,11/23/2009,12/20/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR589xy,10/1/2008,m,intact,,10/18/2009,4/9/2010,,,,,,,,,male_labrador_page_14_table_1.csv
+LR590xy,11/1/2008,m,intact,,11/15/2009,11/15/2009,,,,,,,,,male_labrador_page_14_table_1.csv
+LR591xy,1/20/2009,m,intact,,10/29/2010,12/17/2010,,,,,,,,,male_labrador_page_14_table_1.csv
+LR592xy,2/1/2009,m,intact,,5/27/2010,5/27/2010,,,,,,,,,male_labrador_page_14_table_1.csv
+LR593xy,3/24/2009,m,intact,,6/12/2010,6/12/2010,,,,,,,,,male_labrador_page_14_table_1.csv
+LR594xy,5/1/2009,m,intact,,12/10/2010,12/29/2010,,,,,,,,,male_labrador_page_14_table_1.csv
+LR595xy,6/9/2009,m,intact,,12/13/2010,2/22/2011,,,,,,,,,male_labrador_page_14_table_1.csv
+LR596xy,2/1/2010,m,intact,,2/10/2011,7/5/2012,,,,,,,,,male_labrador_page_14_table_1.csv
+LR597xy,10/19/2010,m,intact,,11/16/2012,11/16/2012,,,,,,,,,male_labrador_page_14_table_1.csv
+LR598xy,1/27/2011,m,intact,,2/17/2012,2/17/2012,,,,,,,,,male_labrador_page_14_table_1.csv
+LR599xy,5/1/2011,m,intact,,11/9/2012,11/9/2012,,,,,,,,,male_labrador_page_14_table_1.csv
+LR600xy,8/1/2011,m,intact,,8/27/2012,8/30/2012,,,,,,,,,male_labrador_page_14_table_1.csv
+LR601xy,7/1/1992,m,intact,,8/16/2000,8/21/2000,,,,,,,,,male_labrador_page_14_table_1.csv
+LR602xy,7/1/1992,m,intact,,8/23/2000,8/26/2000,,,,,,,,,male_labrador_page_14_table_1.csv
+LR603xy,7/1/1992,m,intact,,9/14/2000,10/13/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR604xy,7/1/1993,m,intact,,7/18/2000,7/18/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR605xy,7/1/1993,m,intact,,1/5/2000,1/13/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR606xy,7/1/1993,m,intact,,9/27/2000,10/4/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR607xy,7/1/1993,m,intact,,3/2/2001,4/16/2001,,,,,,,,,male_labrador_page_15_table_1.csv
+LR608xy,7/1/1993,m,intact,,4/25/2001,4/26/2001,,,,,,,,,male_labrador_page_15_table_1.csv
+LR609xy,7/1/1993,m,intact,,11/27/2000,5/21/2001,,,,,,,,,male_labrador_page_15_table_1.csv
+LR610xy,7/1/1993,m,intact,,6/21/2001,6/21/2001,,,,,,,,,male_labrador_page_15_table_1.csv
+LR611xy,7/1/1993,m,intact,,7/12/2001,7/29/2001,,,,,,,,,male_labrador_page_15_table_1.csv
+LR612xy,7/1/1993,m,intact,,11/26/2001,11/26/2001,,,,,,,,,male_labrador_page_15_table_1.csv
+LR613xy,7/1/1994,m,intact,,4/23/2000,4/23/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR614xy,7/1/1994,m,intact,,4/28/2000,5/11/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR615xy,7/1/1994,m,intact,,7/20/2000,7/21/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR616xy,7/1/1994,m,intact,,10/3/2000,1/27/2001,,,,8/3/2000,,,,,male_labrador_page_15_table_1.csv
+LR617xy,7/1/1994,m,intact,,8/20/2001,8/24/2001,,,,5/1/2000,,,,,male_labrador_page_15_table_1.csv
+LR618xy,7/1/1994,m,intact,,5/1/2000,9/14/2001,,,,,,,invalid,,male_labrador_page_15_table_1.csv
+LR619xy,7/1/1994,m,intact,,4/12/2002,4/12/2002,,,,,,,,,male_labrador_page_15_table_1.csv
+LR620xy,7/1/1994,m,intact,,2/14/2002,7/25/2002,,,,,,,,,male_labrador_page_15_table_1.csv
+LR621xy,7/1/1994,m,intact,,10/11/2000,10/18/2000,,,10/11/2000,,,,invalid,,male_labrador_page_15_table_1.csv
+LR622xy,7/1/1995,m,intact,,6/15/2000,6/15/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR623xy,7/1/1995,m,intact,,6/14/2000,11/27/2000,,,,,,,,6/13/2000,male_labrador_page_15_table_1.csv
+LR624xy,7/1/1995,m,intact,,9/1/2002,9/2/2002,,,,,,,,,male_labrador_page_15_table_1.csv
+LR625xy,7/1/1995,m,intact,,6/27/2002,9/26/2002,,,,,,,,,male_labrador_page_15_table_1.csv
+LR626xy,7/1/1995,m,intact,,1/10/2000,6/11/2003,,,,,,,,,male_labrador_page_15_table_1.csv
+LR627xy,7/1/1995,m,intact,,12/13/2001,8/11/2003,,,,,,,11/28/2001,,male_labrador_page_15_table_1.csv
+LR628xy,7/1/1995,m,intact,,11/26/2003,1/7/2004,,,,,,,,,male_labrador_page_15_table_1.csv
+LR629xy,7/1/1995,m,intact,,7/31/2002,9/30/2002,,,,,invalid,,,,male_labrador_page_15_table_1.csv
+LR630xy,7/1/1995,m,intact,,12/14/2000,12/15/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR631xy,7/1/1996,m,intact,,5/17/2000,5/25/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR632xy,7/1/1996,m,intact,,12/4/2000,12/5/2000,,,,,,,invalid,,male_labrador_page_15_table_1.csv
+LR633xy,7/1/1996,m,intact,,10/17/2001,10/19/2001,,,,,,,,,male_labrador_page_15_table_1.csv
+LR634xy,7/1/1996,m,intact,,7/30/2002,7/30/2002,,,,,,,,,male_labrador_page_15_table_1.csv
+LR635xy,7/1/1996,m,intact,,8/22/2002,8/23/2002,,,,,,,,,male_labrador_page_15_table_1.csv
+LR636xy,7/1/1996,m,intact,,10/26/2000,3/25/2003,,,,,,,,,male_labrador_page_15_table_1.csv
+LR637xy,7/1/1996,m,intact,,9/17/2002,8/5/2003,,,9/17/2000,,,,,,male_labrador_page_15_table_1.csv
+LR638xy,7/1/1996,m,intact,,8/5/2003,8/7/2003,,,,,,,,,male_labrador_page_15_table_1.csv
+LR639xy,7/1/1996,m,intact,,9/20/2003,9/23/2003,,,,,,,,,male_labrador_page_15_table_1.csv
+LR640xy,7/1/1996,m,intact,,3/18/2004,3/18/2004,,,,,,,,,male_labrador_page_15_table_1.csv
+LR641xy,7/1/1996,m,intact,,4/6/2004,4/6/2004,,,,,,,,,male_labrador_page_15_table_1.csv
+LR642xy,7/1/1996,m,intact,,8/22/2004,8/22/2004,,,,,,,,,male_labrador_page_15_table_1.csv
+LR643xy,7/1/1996,m,intact,,7/30/2004,9/17/2004,,,,,,,,,male_labrador_page_15_table_1.csv
+LR644xy,7/1/1996,m,intact,,12/9/2002,12/13/2002,,,,,,,,,male_labrador_page_15_table_1.csv
+LR645xy,7/1/1997,m,intact,,1/12/2000,1/12/2000,,,,,,,,,male_labrador_page_15_table_1.csv
+LR646xy,7/1/1997,m,intact,,5/11/2000,5/11/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR647xy,7/1/1997,m,intact,,6/8/2000,6/8/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR648xy,7/1/1997,m,intact,,9/12/2000,9/14/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR649xy,7/1/1997,m,intact,,8/30/2000,9/20/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR650xy,7/1/1997,m,intact,,4/9/2001,4/9/2001,,,,,,,,,male_labrador_page_16_table_1.csv
+LR651xy,7/1/1997,m,intact,,8/5/2002,8/6/2002,,,,,,,,,male_labrador_page_16_table_1.csv
+LR652xy,7/1/1997,m,intact,,5/30/2002,10/29/2002,,,,,,,9/1/2001,invalid,male_labrador_page_16_table_1.csv
+LR653xy,7/1/1997,m,intact,,7/8/2003,8/19/2003,,,,,,,,,male_labrador_page_16_table_1.csv
+LR654xy,7/1/1997,m,intact,,9/15/2003,9/15/2003,,,,,,,,,male_labrador_page_16_table_1.csv
+LR655xy,7/1/1997,m,intact,,1/2/2001,10/16/2003,,,,3/4/2002,,,,invalid,male_labrador_page_16_table_1.csv
+LR656xy,7/1/1997,m,intact,,12/2/2003,12/3/2003,,,,,,invalid,,invalid,male_labrador_page_16_table_1.csv
+LR657xy,7/1/1997,m,intact,,12/11/2003,12/11/2003,,,,,,,,,male_labrador_page_16_table_1.csv
+LR658xy,7/1/1997,m,intact,,5/8/2004,5/8/2004,,,,,,,,,male_labrador_page_16_table_1.csv
+LR659xy,7/1/1997,m,intact,,6/7/2004,6/8/2004,,,,,,,,,male_labrador_page_16_table_1.csv
+LR660xy,7/1/1997,m,intact,,9/21/2004,12/3/2004,,,,,,,,,male_labrador_page_16_table_1.csv
+LR661xy,7/1/1997,m,intact,,12/19/2004,12/19/2004,,,,,,12/19/2004,,,male_labrador_page_16_table_1.csv
+LR662xy,7/1/1997,m,intact,,2/17/2005,2/17/2005,,,,,,,,,male_labrador_page_16_table_1.csv
+LR663xy,7/1/1997,m,intact,,9/8/2004,9/22/2005,,,,,,,6/8/2004,,male_labrador_page_16_table_1.csv
+LR664xy,7/1/1997,m,intact,,8/28/2002,11/9/2005,,,,,,,1/1/2002,,male_labrador_page_16_table_1.csv
+LR665xy,7/1/1997,m,intact,,2/1/2000,2/1/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR666xy,7/1/1998,m,intact,,3/26/2000,3/26/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR667xy,7/1/1998,m,intact,,6/1/2000,6/1/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR668xy,7/1/1998,m,intact,,4/20/2000,6/1/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR669xy,7/1/1998,m,intact,,5/29/2000,6/2/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR670xy,7/1/1998,m,intact,,6/8/2000,6/8/2000,,,,,,,,,male_labrador_page_16_table_1.csv
+LR671xy,7/1/1998,m,intact,,6/21/2001,6/21/2001,,,,,,,,,male_labrador_page_16_table_1.csv
+LR672xy,7/1/1998,m,intact,,9/17/2001,9/20/2001,,,,,,,,,male_labrador_page_16_table_1.csv
+LR673xy,7/1/1998,m,intact,,5/14/2001,4/16/2002,,,,,,,,11/1/2000,male_labrador_page_16_table_1.csv
+LR674xy,7/1/1998,m,intact,,5/15/2002,5/15/2002,,,,,,,,,male_labrador_page_16_table_1.csv
+LR675xy,7/1/1998,m,intact,,3/15/2000,10/23/2002,,,invalid,,,,,,male_labrador_page_16_table_1.csv
+LR676xy,7/1/1998,m,intact,,11/1/2002,11/1/2002,,,,,,,,,male_labrador_page_16_table_1.csv
+LR677xy,7/1/1998,m,intact,,10/27/2003,10/30/2003,,,,,,,,,male_labrador_page_16_table_1.csv
+LR678xy,7/1/1998,m,intact,,11/12/2003,11/12/2003,,,,,,,,,male_labrador_page_16_table_1.csv
+LR679xy,7/1/1998,m,intact,,2/23/2004,4/30/2004,,,,,,,,2/8/2004,male_labrador_page_16_table_1.csv
+LR680xy,7/1/1998,m,intact,,7/23/2003,7/21/2005,,,,,,,,,male_labrador_page_16_table_1.csv
+LR681xy,7/1/1998,m,intact,,12/6/2005,12/10/2005,,,,,,,,,male_labrador_page_16_table_1.csv
+LR682xy,7/1/1998,m,intact,,1/2/2006,1/2/2006,,,,7/1/2005,,,,,male_labrador_page_16_table_1.csv
+LR683xy,7/1/1998,m,intact,,8/2/2006,5/30/2007,,,,,,,,,male_labrador_page_16_table_1.csv
+LR684xy,7/1/1998,m,intact,,7/16/2003,3/1/2006,,,,,,,,,male_labrador_page_16_table_1.csv
+LR685xy,7/1/1998,m,intact,,11/5/2001,11/12/2001,,,,,,invalid,,,male_labrador_page_16_table_1.csv
+LR686xy,7/1/1999,m,intact,,4/26/2001,4/26/2001,,,,,,,,,male_labrador_page_16_table_1.csv
+LR687xy,7/1/1999,m,intact,,5/20/2001,5/26/2001,,,,,,,,,male_labrador_page_16_table_1.csv
+LR688xy,7/1/1999,m,intact,,2/5/2002,2/9/2002,,,,,,,,,male_labrador_page_16_table_1.csv
+LR689xy,7/1/1999,m,intact,,3/13/2002,6/7/2002,,,,,,,,,male_labrador_page_17_table_1.csv
+LR690xy,7/1/1999,m,intact,,7/9/2002,7/9/2002,,,,,,,,,male_labrador_page_17_table_1.csv
+LR691xy,7/1/1999,m,intact,,9/30/2002,9/30/2002,,,,,,,,,male_labrador_page_17_table_1.csv
+LR692xy,7/1/1999,m,intact,,5/22/2003,5/23/2003,,,,,,invalid,,,male_labrador_page_17_table_1.csv
+LR693xy,7/1/1999,m,intact,,11/19/2002,10/9/2003,,,,,,,,,male_labrador_page_17_table_1.csv
+LR694xy,7/1/1999,m,intact,,4/11/2005,3/21/2006,,,,,,,,,male_labrador_page_17_table_1.csv
+LR695xy,7/1/1999,m,intact,,11/6/2006,11/9/2006,,,,,,,,,male_labrador_page_17_table_1.csv
+LR696xy,7/1/1999,m,intact,,7/15/2007,7/15/2007,,,,,,,,,male_labrador_page_17_table_1.csv
+LR697xy,7/1/1999,m,intact,,7/21/2004,7/21/2004,,,,,,,,,male_labrador_page_17_table_1.csv
+LR698xy,7/1/1999,m,intact,,12/4/2003,12/4/2003,,,,,,,,,male_labrador_page_17_table_1.csv
+LR699xy,7/1/2000,m,intact,,9/28/2001,1/15/2002,,,,,,,,,male_labrador_page_17_table_1.csv
+LR700xy,7/1/2000,m,intact,,5/15/2002,6/11/2002,,,,,,,,,male_labrador_page_17_table_1.csv
+LR701xy,7/1/2000,m,intact,,7/5/2002,7/5/2002,,,,,,,,,male_labrador_page_17_table_1.csv
+LR702xy,7/1/2000,m,intact,,10/3/2002,10/3/2002,,,,,,,,,male_labrador_page_17_table_1.csv
+LR703xy,7/1/2000,m,intact,,2/19/2003,3/5/2003,,,,,,,,,male_labrador_page_17_table_1.csv
+LR704xy,7/1/2000,m,intact,,5/25/2003,5/25/2003,,,,,,,,,male_labrador_page_17_table_1.csv
+LR705xy,7/1/2000,m,intact,,9/20/2004,9/21/2004,,,,5/1/2004,,,,,male_labrador_page_17_table_1.csv
+LR706xy,7/1/2000,m,intact,,2/22/2005,4/26/2005,,,,,,,,,male_labrador_page_17_table_1.csv
+LR707xy,7/1/2000,m,intact,,6/27/2005,6/27/2005,,,,,,,,,male_labrador_page_17_table_1.csv
+LR708xy,7/1/2000,m,intact,,1/3/2006,1/11/2006,,,,,,,,,male_labrador_page_17_table_1.csv
+LR709xy,7/1/2000,m,intact,,3/15/2006,3/18/2006,,,,,,,3/7/2006,,male_labrador_page_17_table_1.csv
+LR710xy,7/1/2000,m,intact,,11/18/2004,8/8/2006,,,,,,,,,male_labrador_page_17_table_1.csv
+LR711xy,7/1/2000,m,intact,,9/9/2007,9/13/2007,,,,,,,,,male_labrador_page_17_table_1.csv
+LR712xy,7/1/2000,m,intact,,10/22/2007,10/22/2007,,,,,,,,,male_labrador_page_17_table_1.csv
+LR713xy,7/1/2000,m,intact,,4/2/2008,4/13/2008,,,,,,invalid,,,male_labrador_page_17_table_1.csv
+LR714xy,7/1/2000,m,intact,,6/3/2008,6/3/2008,,,,,,,,,male_labrador_page_17_table_1.csv
+LR715xy,7/1/2000,m,intact,,4/8/2008,6/6/2008,,,,,,,,,male_labrador_page_17_table_1.csv
+LR716xy,7/1/2000,m,intact,,8/28/2008,9/4/2008,,,,,,,,,male_labrador_page_17_table_1.csv
+LR717xy,7/1/2000,m,intact,,11/5/2008,11/6/2008,,,,,,,,,male_labrador_page_17_table_1.csv
+LR718xy,7/1/2000,m,intact,,12/1/2008,12/1/2008,,,,12/1/2008,,,,,male_labrador_page_17_table_1.csv
+LR719xy,7/1/2000,m,intact,,6/19/2008,6/19/2008,,,,,,,,,male_labrador_page_17_table_1.csv
+LR720xy,7/1/2001,m,intact,,5/15/2003,5/30/2003,,,,,,,,,male_labrador_page_17_table_1.csv
+LR721xy,7/1/2001,m,intact,,9/23/2002,8/30/2003,,,,,,,,,male_labrador_page_17_table_1.csv
+LR722xy,7/1/2001,m,intact,,9/30/2003,1/23/2004,,,,,,,,,male_labrador_page_17_table_1.csv
+LR723xy,7/1/2001,m,intact,,3/3/2004,3/3/2004,,,,,,,,,male_labrador_page_17_table_1.csv
+LR724xy,7/1/2001,m,intact,,1/10/2005,1/10/2005,,,,,,,,,male_labrador_page_17_table_1.csv
+LR725xy,7/1/2001,m,intact,,3/16/2006,3/18/2006,,,,,,,,,male_labrador_page_17_table_1.csv
+LR726xy,7/1/2001,m,intact,,4/29/2006,5/1/2006,,,,,,,,,male_labrador_page_17_table_1.csv
+LR727xy,7/1/2001,m,intact,,11/16/2006,12/5/2006,,,,,,,,11/2/2006,male_labrador_page_17_table_1.csv
+LR728xy,7/1/2001,m,intact,,1/22/2007,2/27/2007,,,,,,,,,male_labrador_page_17_table_1.csv
+LR729xy,7/1/2001,m,intact,,10/30/2007,10/30/2007,,,,,,,,,male_labrador_page_17_table_1.csv
+LR730xy,7/1/2001,m,intact,,10/4/2007,11/8/2007,,,,,,,,,male_labrador_page_17_table_1.csv
+LR731xy,7/1/2001,m,intact,,10/3/2008,10/4/2008,,,,,,,,,male_labrador_page_17_table_1.csv
+LR732xy,7/1/2001,m,intact,,6/23/2009,6/24/2009,,,,,,,,,male_labrador_page_18_table_1.csv
+LR733xy,7/1/2001,m,intact,,9/28/2006,9/4/2009,,,,,,,,,male_labrador_page_18_table_1.csv
+LR734xy,7/1/2001,m,intact,,9/15/2009,10/26/2009,,,,,,,,,male_labrador_page_18_table_1.csv
+LR735xy,7/1/2001,m,intact,,4/7/2004,4/7/2004,,,,,,,,,male_labrador_page_18_table_1.csv
+LR736xy,7/1/2001,m,intact,,5/6/2004,7/2/2004,,,,,,,,,male_labrador_page_18_table_1.csv
+LR737xy,7/1/2002,m,intact,,11/26/2003,11/26/2003,,,,,,,,,male_labrador_page_18_table_1.csv
+LR738xy,7/1/2002,m,intact,,1/28/2004,2/13/2004,,,,,,,,,male_labrador_page_18_table_1.csv
+LR739xy,7/1/2002,m,intact,,7/28/2003,3/22/2004,,,,,,,,,male_labrador_page_18_table_1.csv
+LR740xy,7/1/2002,m,intact,,6/8/2004,6/25/2004,,,,,,,,,male_labrador_page_18_table_1.csv
+LR741xy,7/1/2002,m,intact,,6/28/2004,7/14/2004,,,,,,,,,male_labrador_page_18_table_1.csv
+LR742xy,7/1/2002,m,intact,,11/3/2004,11/3/2004,,,,,,,,,male_labrador_page_18_table_1.csv
+LR743xy,7/1/2002,m,intact,,5/13/2004,5/20/2005,,,,,,,,,male_labrador_page_18_table_1.csv
+LR744xy,7/1/2002,m,intact,,7/12/2007,7/12/2007,,,,7/12/2007,,,,,male_labrador_page_18_table_1.csv
+LR745xy,7/1/2002,m,intact,,1/14/2009,1/16/2009,,,,,,,,,male_labrador_page_18_table_1.csv
+LR746xy,7/1/2002,m,intact,,4/4/2004,4/16/2009,,,4/15/2009,,,,,,male_labrador_page_18_table_1.csv
+LR747xy,7/1/2002,m,intact,,5/4/2009,5/4/2009,,,,,,,,,male_labrador_page_18_table_1.csv
+LR748xy,7/1/2002,m,intact,,12/22/2007,9/1/2009,,,,,,,,,male_labrador_page_18_table_1.csv
+LR749xy,7/1/2002,m,intact,,3/23/2004,8/26/2010,,,,,,,,,male_labrador_page_18_table_1.csv
+LR750xy,7/1/2002,m,intact,,5/20/2007,10/9/2010,,,,,,,,,male_labrador_page_18_table_1.csv
+LR751xy,7/1/2003,m,intact,,8/9/2004,8/9/2004,,,,,,,,,male_labrador_page_18_table_1.csv
+LR752xy,7/1/2003,m,intact,,2/16/2005,2/16/2005,,,,,,,,,male_labrador_page_18_table_1.csv
+LR753xy,7/1/2003,m,intact,,5/29/2006,5/30/2006,,,,,,,,,male_labrador_page_18_table_1.csv
+LR754xy,7/1/2003,m,intact,,10/11/2004,6/23/2006,,,,,,,,,male_labrador_page_18_table_1.csv
+LR755xy,7/1/2003,m,intact,,7/14/2006,8/11/2006,,,,,,,,,male_labrador_page_18_table_1.csv
+LR756xy,7/1/2003,m,intact,,5/18/2006,11/30/2006,,,,,,,,,male_labrador_page_18_table_1.csv
+LR757xy,7/1/2003,m,intact,,11/11/2006,12/1/2006,,,,,invalid,,,,male_labrador_page_18_table_1.csv
+LR758xy,7/1/2003,m,intact,,1/29/2007,1/29/2007,,,,,,,,,male_labrador_page_18_table_1.csv
+LR759xy,7/1/2003,m,intact,,2/28/2007,2/28/2007,,,,,,,,,male_labrador_page_18_table_1.csv
+LR760xy,7/1/2003,m,intact,,11/16/2007,11/16/2007,,,,,,,,,male_labrador_page_18_table_1.csv
+LR761xy,7/1/2003,m,intact,,7/3/2009,7/3/2009,,,,,,,,,male_labrador_page_18_table_1.csv
+LR762xy,7/1/2003,m,intact,,12/9/2009,12/9/2009,,,,,,,,,male_labrador_page_18_table_1.csv
+LR763xy,7/1/2004,m,intact,,7/6/2005,7/6/2005,,,,,,,,,male_labrador_page_18_table_1.csv
+LR764xy,7/1/2004,m,intact,,7/15/2005,7/15/2005,,,,,,,,,male_labrador_page_18_table_1.csv
+LR765xy,7/1/2004,m,intact,,12/23/2005,12/27/2005,,,,,,,,,male_labrador_page_18_table_1.csv
+LR766xy,7/1/2004,m,intact,,3/8/2006,5/5/2006,,,,,,,,,male_labrador_page_18_table_1.csv
+LR767xy,7/1/2004,m,intact,,8/5/2006,8/5/2006,,,,,,,,,male_labrador_page_18_table_1.csv
+LR768xy,7/1/2004,m,intact,,2/3/2007,2/9/2007,,,,,,,,,male_labrador_page_18_table_1.csv
+LR769xy,7/1/2004,m,intact,,3/14/2007,3/15/2007,,,,,,,,,male_labrador_page_18_table_1.csv
+LR770xy,7/1/2004,m,intact,,11/7/2007,11/9/2007,,,,,,,,,male_labrador_page_18_table_1.csv
+LR771xy,7/1/2004,m,intact,,11/17/2007,11/17/2007,,,,,,,,,male_labrador_page_18_table_1.csv
+LR772xy,7/1/2004,m,intact,,2/15/2008,2/15/2008,,,,,,,,,male_labrador_page_18_table_1.csv
+LR773xy,7/1/2004,m,intact,,9/22/2009,9/22/2009,,,,,,,,,male_labrador_page_18_table_1.csv
+LR774xy,7/1/2004,m,intact,,12/14/2009,12/14/2009,,,,,,12/4/2009,,,male_labrador_page_18_table_1.csv
+LR775xy,7/1/2005,m,intact,,8/3/2006,8/3/2006,,,,,,,,,male_labrador_page_19_table_1.csv
+LR776xy,7/1/2005,m,intact,,8/22/2006,8/22/2006,,,,,,,,,male_labrador_page_19_table_1.csv
+LR777xy,7/1/2005,m,intact,,12/19/2007,12/19/2007,,,,,,,,,male_labrador_page_19_table_1.csv
+LR778xy,7/1/2005,m,intact,,12/24/2007,12/25/2007,,,,,,,,,male_labrador_page_19_table_1.csv
+LR779xy,7/1/2005,m,intact,,6/18/2008,6/18/2008,,,,,invalid,,,,male_labrador_page_19_table_1.csv
+LR780xy,7/1/2005,m,intact,,11/18/2007,7/16/2008,,,,,,,,,male_labrador_page_19_table_1.csv
+LR781xy,7/1/2005,m,intact,,8/25/2008,9/17/2008,,,,,,,,,male_labrador_page_19_table_1.csv
+LR782xy,7/1/2005,m,intact,,12/20/2008,12/21/2008,,,,,,,,,male_labrador_page_19_table_1.csv
+LR783xy,7/1/2005,m,intact,,4/30/2009,5/21/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR784xy,7/1/2005,m,intact,,5/30/2009,6/7/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR785xy,7/1/2005,m,intact,,6/5/2009,7/22/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR786xy,7/1/2005,m,intact,,9/4/2009,9/18/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR787xy,7/1/2005,m,intact,,12/5/2009,12/5/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR788xy,7/1/2005,m,intact,,11/26/2009,1/13/2010,,,,,,,,,male_labrador_page_19_table_1.csv
+LR789xy,7/1/2005,m,intact,,7/18/2009,5/31/2010,,,,,,,,,male_labrador_page_19_table_1.csv
+LR790xy,7/1/2005,m,intact,,8/14/2008,11/13/2012,,,,,,,,,male_labrador_page_19_table_1.csv
+LR791xy,7/1/2006,m,intact,,1/10/2008,1/11/2008,,,,,,,,,male_labrador_page_19_table_1.csv
+LR792xy,7/1/2006,m,intact,,2/25/2008,3/3/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR793xy,7/1/2006,m,intact,,2/17/2009,4/3/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR794xy,7/1/2006,m,intact,,4/26/2009,6/16/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR795xy,7/1/2006,m,intact,,12/4/2009,6/22/2010,,,,,,,,,male_labrador_page_19_table_1.csv
+LR796xy,7/1/2007,m,intact,,12/27/2008,12/28/2008,,,,,,,,,male_labrador_page_19_table_1.csv
+LR797xy,7/1/2007,m,intact,,6/5/2009,6/9/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR798xy,7/1/2007,m,intact,,4/6/2009,7/8/2009,,,,4/7/2009,invalid,,,,male_labrador_page_19_table_1.csv
+LR799xy,7/1/2007,m,intact,,8/7/2009,8/12/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR800xy,7/1/2007,m,intact,,9/25/2009,9/27/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR801xy,7/1/2007,m,intact,,10/27/2009,10/27/2009,,,,,,,,,male_labrador_page_19_table_1.csv
+LR802xy,7/1/2007,m,intact,,11/28/2009,1/8/2010,,,,,,,,,male_labrador_page_19_table_1.csv
+LR803xy,7/1/2009,m,intact,,9/6/2011,9/6/2011,,,,,,,,,male_labrador_page_19_table_1.csv
+LR804xy,7/1/2009,m,intact,,1/4/2012,1/4/2012,,,,,,,,,male_labrador_page_19_table_1.csv
+LR805xy,7/1/2009,m,intact,,6/6/2012,6/12/2012,,,,,,,,,male_labrador_page_19_table_1.csv
+LR806xy,7/1/2009,m,intact,,11/26/2012,11/26/2012,,,,,,,,,male_labrador_page_19_table_1.csv
+LR807xy,7/1/2010,m,intact,,10/29/2011,10/29/2011,,,,,,,,,male_labrador_page_19_table_1.csv
+LR808xy,7/1/2011,m,intact,,12/9/2012,12/10/2012,,,,,,,,,male_labrador_page_19_table_1.csv
