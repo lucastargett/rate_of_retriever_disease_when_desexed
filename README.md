@@ -13,8 +13,6 @@ An exploratory SQL and Python project investigating recorded disease occurrence 
 
 How does the proportion of dogs with selected recorded diseases vary across desexing-age categories and intact dogs in this dataset?
 
-This is a descriptive and exploratory project. It does not establish the best age to desex a dog, estimate lifespan or reproduce the source paper's full analysis.
-
 ## Findings
 
 | Desexing category | Recorded disease | No recorded disease | Dogs | Recorded disease (%) |
